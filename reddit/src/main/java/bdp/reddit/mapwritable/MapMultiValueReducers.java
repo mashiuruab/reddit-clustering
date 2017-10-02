@@ -74,6 +74,7 @@ public class MapMultiValueReducers extends Reducer<Text, MapWritable, Text, Text
             double idfValue = totalNumberOfDocuments / entry.getValue().getTotalDoc();
             idfValue = Math.log10(idfValue);
             IDF.put(entry.getKey(), idfValue);
+            System.out.println(String.format("id  key = %s, id value = %s", entry.getKey(), idfValue));
         }
 
         System.out.println("Debug................");

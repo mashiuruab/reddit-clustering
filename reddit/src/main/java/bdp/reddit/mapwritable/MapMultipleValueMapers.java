@@ -61,7 +61,7 @@ public class MapMultipleValueMapers extends Mapper<LongWritable, Text, Text, Map
     protected void map(LongWritable lineNumber, Text value, Context context) throws IOException, InterruptedException {
         Text subRedditId  = new Text();
         MapWritable lineTermMap = new MapWritable();
-        IntWritable one =  new IntWritable(1);
+        DoubleWritable one =  new DoubleWritable(1);
         MapWritable termFrequencyMap  =  new MapWritable();
 
         Map<String, String> jsonMap = get(value);
@@ -80,9 +80,9 @@ public class MapMultipleValueMapers extends Mapper<LongWritable, Text, Text, Map
             if (HATE_DB.containsKey(term)) {
                 Text termToInsert = new Text(term);
                 if (termMap.containsKey(termToInsert)) {
-                    IntWritable counter = (IntWritable) termMap.get(termToInsert);
-                    int totalCount =  counter.get() + 1;
-                    termMap.put(termToInsert, new IntWritable(totalCount));
+                    DoubleWritable counter = (DoubleWritable) termMap.get(termToInsert);
+                    double totalCount =  counter.get() + 1;
+                    termMap.put(termToInsert, new DoubleWritable(totalCount));
                 } else {
                     termMap.put(termToInsert, one);
                 }
@@ -93,7 +93,7 @@ public class MapMultipleValueMapers extends Mapper<LongWritable, Text, Text, Map
 
 
         for(Map.Entry<Writable, Writable> termPair : termMap.entrySet()) {
-            double tf = ((IntWritable) termPair.getValue()).get() / totalToken;
+            double tf = ((DoubleWritable) termPair.getValue()).get() / totalToken;
             termFrequencyMap.put(termPair.getKey(),  new DoubleWritable(tf));
             System.out.println(String.format("key = %s  , value = %s", termPair.getKey(), tf));
         }
