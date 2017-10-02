@@ -59,8 +59,9 @@ public class MapMultiValueReducers extends Reducer<Text, MapWritable, Text, Text
 
                     termDocCountMap.put(termKey.toString(),  container);
                 }
-                totalNumberOfDocuments++;
+                System.out.println(String.format("lineNumber = %s, totalDocument = %s", lineNumber, totalNumberOfDocuments));
             }
+            totalNumberOfDocuments++;
         }
 
         for(Map.Entry<String, TfDocCountContainer> entry : termDocCountMap.entrySet()) {
@@ -71,6 +72,8 @@ public class MapMultiValueReducers extends Reducer<Text, MapWritable, Text, Text
 
 
         for(Map.Entry<String, TfDocCountContainer> entry : termDocCountMap.entrySet()) {
+            System.out.println(String.format("Total = %s,key = %s, entry found in # %s",totalNumberOfDocuments,
+                    entry.getKey(), entry.getValue().getTotalDoc()));
             double idfValue = totalNumberOfDocuments / entry.getValue().getTotalDoc();
             System.out.println(String.format("id  key = %s, id value = %s", entry.getKey(), idfValue));
             idfValue = Math.log10(idfValue);

@@ -34,9 +34,6 @@ public class MapMultipleValueMapers extends Mapper<LongWritable, Text, Text, Map
     private static final String RETRIEVED_ON = "retrieved_on";
     private static final String ID = "id";
 
-    private Gson gson = new Gson();
-    private Type type = new TypeToken<Map<String, String>>(){}.getType();
-
 
     private static Map<String, String> HATE_DB = new HashMap<>();
 
@@ -101,10 +98,15 @@ public class MapMultipleValueMapers extends Mapper<LongWritable, Text, Text, Map
         lineTermMap.put(lineNumber, termFrequencyMap);
         subRedditId.set(jsonMap.get(SUBREDDIT_ID));
 
+        System.out.println("Debug..............");
+        System.out.println(new Gson().toJson(lineTermMap));
+
         context.write(subRedditId, lineTermMap);
     }
 
     private Map<String, String> get(Text json) {
+        Gson gson = new Gson();
+        Type type = new TypeToken<Map<String, String>>(){}.getType();
         return gson.fromJson(json.toString(), type);
     }
 
