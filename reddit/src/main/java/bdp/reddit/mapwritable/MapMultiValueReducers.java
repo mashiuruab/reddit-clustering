@@ -12,7 +12,7 @@ import java.util.Map;
 
 public class MapMultiValueReducers extends Reducer<Text, MapWritable, Text, Text> {
     Map<String, List> tfIdfVector;
-    int totalNumberOfDocuments;
+    double totalNumberOfDocuments;
 
     @Override
     protected void reduce(Text redditId, Iterable<MapWritable> values, Context context) throws IOException, InterruptedException {
@@ -72,9 +72,9 @@ public class MapMultiValueReducers extends Reducer<Text, MapWritable, Text, Text
 
         for(Map.Entry<String, TfDocCountContainer> entry : termDocCountMap.entrySet()) {
             double idfValue = totalNumberOfDocuments / entry.getValue().getTotalDoc();
+            System.out.println(String.format("id  key = %s, id value = %s", entry.getKey(), idfValue));
             idfValue = Math.log10(idfValue);
             IDF.put(entry.getKey(), idfValue);
-            System.out.println(String.format("id  key = %s, id value = %s", entry.getKey(), idfValue));
         }
 
         System.out.println("Debug................");
