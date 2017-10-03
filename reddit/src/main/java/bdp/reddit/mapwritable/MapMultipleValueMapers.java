@@ -63,13 +63,13 @@ public class MapMultipleValueMapers extends Mapper<LongWritable, Text, Text, Map
 
         Map<String, String> jsonMap = get(value);
 
-        String bodyAsString = removeStopWords(jsonMap.get(BODY));
+        String bodyAsString = jsonMap.get(BODY);
 
         MapWritable  termMap = new MapWritable();
 
         StringTokenizer tokenizer = new StringTokenizer(bodyAsString);
 
-        int totalToken = 0;
+        double totalToken = 0;
 
         while (tokenizer.hasMoreTokens()) {
             String  term = tokenizer.nextToken();
@@ -92,14 +92,10 @@ public class MapMultipleValueMapers extends Mapper<LongWritable, Text, Text, Map
         for(Map.Entry<Writable, Writable> termPair : termMap.entrySet()) {
             double tf = ((DoubleWritable) termPair.getValue()).get() / totalToken;
             termFrequencyMap.put(termPair.getKey(),  new DoubleWritable(tf));
-            System.out.println(String.format("key = %s  , value = %s", termPair.getKey(), tf));
         }
 
         lineTermMap.put(lineNumber, termFrequencyMap);
         subRedditId.set(jsonMap.get(SUBREDDIT_ID));
-
-        System.out.println("Debug..............");
-        System.out.println(new Gson().toJson(lineTermMap));
 
         context.write(subRedditId, lineTermMap);
     }

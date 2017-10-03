@@ -12,7 +12,6 @@ import java.util.Map;
 
 public class MapMultiValueReducers extends Reducer<Text, MapWritable, Text, Text> {
     Map<String, List> tfIdfVector;
-    double totalNumberOfDocuments;
 
     @Override
     protected void reduce(Text redditId, Iterable<MapWritable> values, Context context) throws IOException, InterruptedException {
@@ -24,8 +23,9 @@ public class MapMultiValueReducers extends Reducer<Text, MapWritable, Text, Text
     }
 
     private void setTFIDF(Text redditId, Iterable<MapWritable> docList) {
+        double totalNumberOfDocuments = 0;
+
         tfIdfVector = new HashMap<>();
-        totalNumberOfDocuments = 0;
 
         Map<String, TfDocCountContainer> termDocCountMap = new HashMap<>();
         Map<String, Double> TF = new HashMap<>();
@@ -59,8 +59,9 @@ public class MapMultiValueReducers extends Reducer<Text, MapWritable, Text, Text
 
                     termDocCountMap.put(termKey.toString(),  container);
                 }
-                System.out.println(String.format("lineNumber = %s, totalDocument = %s", lineNumber, totalNumberOfDocuments));
+
             }
+
             totalNumberOfDocuments++;
         }
 
@@ -72,15 +73,12 @@ public class MapMultiValueReducers extends Reducer<Text, MapWritable, Text, Text
 
 
         for(Map.Entry<String, TfDocCountContainer> entry : termDocCountMap.entrySet()) {
-            System.out.println(String.format("Total = %s,key = %s, entry found in # %s",totalNumberOfDocuments,
-                    entry.getKey(), entry.getValue().getTotalDoc()));
             double idfValue = totalNumberOfDocuments / entry.getValue().getTotalDoc();
-            System.out.println(String.format("id  key = %s, id value = %s", entry.getKey(), idfValue));
-            idfValue = Math.log10(idfValue);
+            idfValue = Math.log(idfValue);
             IDF.put(entry.getKey(), idfValue);
         }
 
-        System.out.println("Debug................");
+        System.out.println(String.format("TF-IDF for reddit id : %s", redditId));
         System.out.println(TF);
         System.out.println(IDF);
 
