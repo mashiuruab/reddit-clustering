@@ -11,21 +11,22 @@ import java.util.List;
 import java.util.Map;
 
 public class MapMultiValueReducers extends Reducer<Text, MapWritable, Text, Text> {
-    Map<String, List> tfIdfVector;
+    List<Double> tfidfList = new ArrayList<>();
+
 
     @Override
     protected void reduce(Text redditId, Iterable<MapWritable> values, Context context) throws IOException, InterruptedException {
         setTFIDF(redditId, values);
 
 
-        String jsonString = new Gson().toJson(tfIdfVector);
-        context.write(redditId, new Text(jsonString));
+        if(!tfidfList.isEmpty()) {
+            String jsonString = new Gson().toJson(tfidfList);
+            context.write(redditId, new Text(jsonString));
+        }
     }
 
     private void setTFIDF(Text redditId, Iterable<MapWritable> docList) {
         double totalNumberOfDocuments = 0;
-
-        tfIdfVector = new HashMap<>();
 
         Map<String, TfDocCountContainer> termDocCountMap = new HashMap<>();
         Map<String, Double> TF = new HashMap<>();
@@ -78,18 +79,15 @@ public class MapMultiValueReducers extends Reducer<Text, MapWritable, Text, Text
             IDF.put(entry.getKey(), idfValue);
         }
 
-        System.out.println(String.format("TF-IDF for reddit id : %s", redditId));
+        /*System.out.println(String.format("TF-IDF for reddit id : %s", redditId));
         System.out.println(TF);
-        System.out.println(IDF);
+        System.out.println(IDF);*/
 
-        List<Double> tfidfList = new ArrayList<>();
 
         for(String key : TF.keySet()) {
             double value = TF.get(key) * IDF.get(key);
             tfidfList.add(value);
         }
-
-        tfIdfVector.put(redditId.toString(),  tfidfList);
 
     }
 }
