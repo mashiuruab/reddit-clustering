@@ -34,9 +34,6 @@ public class MapMultipleValueMapers extends Mapper<LongWritable, Text, Text, Map
     private static final String RETRIEVED_ON = "retrieved_on";
     private static final String ID = "id";
 
-    private Gson gson = new Gson();
-    private Type type = new TypeToken<Map<String, String>>(){}.getType();
-
 
     private static Map<String, String> HATE_DB = new HashMap<>();
 
@@ -66,13 +63,13 @@ public class MapMultipleValueMapers extends Mapper<LongWritable, Text, Text, Map
 
         Map<String, String> jsonMap = get(value);
 
-        String bodyAsString = removeStopWords(jsonMap.get(BODY));
+        String bodyAsString = jsonMap.get(BODY);
 
         MapWritable  termMap = new MapWritable();
 
         StringTokenizer tokenizer = new StringTokenizer(bodyAsString);
 
-        int totalToken = 0;
+        double totalToken = 0;
 
         while (tokenizer.hasMoreTokens()) {
             String  term = tokenizer.nextToken();
@@ -95,7 +92,6 @@ public class MapMultipleValueMapers extends Mapper<LongWritable, Text, Text, Map
         for(Map.Entry<Writable, Writable> termPair : termMap.entrySet()) {
             double tf = ((DoubleWritable) termPair.getValue()).get() / totalToken;
             termFrequencyMap.put(termPair.getKey(),  new DoubleWritable(tf));
-            System.out.println(String.format("key = %s  , value = %s", termPair.getKey(), tf));
         }
 
         lineTermMap.put(lineNumber, termFrequencyMap);
@@ -105,6 +101,8 @@ public class MapMultipleValueMapers extends Mapper<LongWritable, Text, Text, Map
     }
 
     private Map<String, String> get(Text json) {
+        Gson gson = new Gson();
+        Type type = new TypeToken<Map<String, String>>(){}.getType();
         return gson.fromJson(json.toString(), type);
     }
 
