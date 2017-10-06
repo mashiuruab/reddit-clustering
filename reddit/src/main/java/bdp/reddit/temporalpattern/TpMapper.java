@@ -3,6 +3,7 @@ package bdp.reddit.temporalpattern;
 import bdp.reddit.util.RedditUtils;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
+import org.apache.commons.lang.StringUtils;
 import org.apache.hadoop.io.*;
 import org.apache.hadoop.mapreduce.Mapper;
 
@@ -13,7 +14,7 @@ import java.util.*;
 
 public class TpMapper extends Mapper<LongWritable, Text, LongWritable, DoubleWritable> {
     private static final String BODY = "body";
-    private static final String CREATED_UTE = "created_ute";
+    private static final String CREATED_UTC = "created_utc";
 
     private Gson gson = new Gson();
     private Type type = new TypeToken<Map<String, String>>(){}.getType();
@@ -25,7 +26,12 @@ public class TpMapper extends Mapper<LongWritable, Text, LongWritable, DoubleWri
             throws IOException, InterruptedException {
         Map<String, String> jsonMap = getMap(json);
         String bodyAsString = jsonMap.get(BODY);
-        long hourOfDay = calculateHours(jsonMap.get(CREATED_UTE));
+        String createdTime = jsonMap.get(CREATED_UTC);
+        if (StringUtils.isEmpty(createdTime)) {
+            return;
+        }
+
+        long hourOfDay = calculateHours(createdTime);
 
         StringTokenizer tokenizer = new StringTokenizer(bodyAsString);
         double totalToken = 0;
