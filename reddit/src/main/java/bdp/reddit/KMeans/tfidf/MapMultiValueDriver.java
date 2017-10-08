@@ -1,4 +1,4 @@
-package bdp.reddit.mapwritable;
+package bdp.reddit.KMeans.tfidf;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;

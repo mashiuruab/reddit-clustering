@@ -1,6 +1,6 @@
 package bdp.reddit.util;
 
-import bdp.reddit.mapwritable.MapMultipleValueMapers;
+import bdp.reddit.KMeans.tfidf.MapMultipleValueMapers;
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVRecord;
 

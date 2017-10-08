@@ -1,4 +1,4 @@
-package bdp.reddit.mapwritable;
+package bdp.reddit.KMeans.tfidf;
 
 import com.google.gson.Gson;
 import org.apache.hadoop.io.*;

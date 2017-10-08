@@ -1,4 +1,4 @@
-package bdp.reddit.mapwritable;
+package bdp.reddit.KMeans.tfidf;
 
 public class TfDocCountContainer {
     private double aggregatedTF;

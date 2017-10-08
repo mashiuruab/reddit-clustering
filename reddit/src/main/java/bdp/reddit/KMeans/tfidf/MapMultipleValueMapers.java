@@ -1,4 +1,4 @@
-package bdp.reddit.mapwritable;
+package bdp.reddit.KMeans.tfidf;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
