@@ -18,6 +18,10 @@ public class TpReducer extends Reducer<LongWritable, DoubleWritable, LongWritabl
             totalDocument++;
         }
 
+        if (totalFrequency == 0 || totalDocument == 0) {
+            return;
+        }
+
         double hateWordsFreq = totalFrequency / totalDocument;
 
         context.write(key, new DoubleWritable(hateWordsFreq));

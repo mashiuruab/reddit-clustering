@@ -16,11 +16,12 @@ public class CommentsPerUserReducer extends Reducer<Text, DoubleWritable, Text, 
             totalComment++;
         }
 
-        double hateFreqPerUser = totalFreq / totalComment;
-
-        if (hateFreqPerUser == 0) {
+        if (totalFreq == 0 || totalComment == 0) {
             return;
         }
+        
+        double hateFreqPerUser = totalFreq / totalComment;
+
 
         context.write(key, new DoubleWritable(hateFreqPerUser));
     }

@@ -18,6 +18,10 @@ public class DateReducer extends Reducer<Text, DoubleWritable, Text, DoubleWrita
             totalDocument++;
         }
 
+        if (totalHateFrequency == 0 || totalDocument == 0) {
+            return;
+        }
+
         double hateFrequency = totalHateFrequency / totalDocument;
 
         context.write(key, new DoubleWritable(hateFrequency));

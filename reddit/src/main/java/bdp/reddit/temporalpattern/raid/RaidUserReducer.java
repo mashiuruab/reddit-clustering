@@ -18,6 +18,10 @@ public class RaidUserReducer extends Reducer<Text, DoubleWritable, Text, DoubleW
             totalDocument++;
         }
 
+        if(totalHateFq == 0 || totalDocument == 0) {
+            return;
+        }
+
         double hfcOfAuthor = totalHateFq / totalDocument;
         context.write(authorName, new DoubleWritable(hfcOfAuthor));
     }
