@@ -125,9 +125,15 @@
                 </transformer>
               </transformers>-->
 
-              <transformers>
+              <!--<transformers>
                 <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
                   <mainClass>bdp.reddit.hplevel.byDate.DateMain</mainClass>
+                </transformer>
+              </transformers>-->
+
+              <transformers>
+                <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
+                  <mainClass>bdp.reddit.temporalpattern.maxhour.MaxHourMain</mainClass>
                 </transformer>
               </transformers>
             </configuration>

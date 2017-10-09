@@ -47,11 +47,12 @@ public class DateMapper extends Mapper<LongWritable, Text, Text, DoubleWritable>
             totalToken++;
         }
 
-        double hateTermFrequency = hateTermCount / totalToken;
-
-        if (hateTermFrequency  == 0) {
+        if (hateTermCount  == 0 || totalToken == 0) {
             return;
         }
+
+        double hateTermFrequency = hateTermCount / totalToken;
+
 
         context.write(new Text(date), new DoubleWritable(hateTermFrequency));
     }

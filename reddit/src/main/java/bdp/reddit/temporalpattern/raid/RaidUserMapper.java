@@ -63,11 +63,11 @@ public class RaidUserMapper extends Mapper<LongWritable, Text, Text, DoubleWrita
             totalToken++;
         }
 
-        double hateTermFrequency = hateTermCount / totalToken;
-
-        if (hateTermFrequency == 0) {
+        if (hateTermCount == 0 || totalToken == 0) {
             return;
         }
+
+        double hateTermFrequency = hateTermCount / totalToken;
 
         context.write(new Text(authorName), new DoubleWritable(hateTermFrequency));
     }

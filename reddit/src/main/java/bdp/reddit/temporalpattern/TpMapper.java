@@ -47,6 +47,10 @@ public class TpMapper extends Mapper<LongWritable, Text, LongWritable, DoubleWri
             totalToken++;
         }
 
+        if(hateTermCount == 0 || totalToken == 0) {
+            return;
+        }
+
         double hateTermFrequency = hateTermCount / totalToken;
 
         context.write(new LongWritable(hourOfDay), new DoubleWritable(hateTermFrequency));

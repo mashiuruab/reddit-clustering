@@ -42,6 +42,10 @@ public class CommentsPerUserMapper  extends Mapper<LongWritable, Text, Text, Dou
             totalToken++;
         }
 
+        if(hateTermCount == 0 ||  totalToken == 0) {
+            return;
+        }
+
         double hateTermFrequency = hateTermCount / totalToken;
 
         context.write(new Text(authorName), new DoubleWritable(hateTermFrequency));
