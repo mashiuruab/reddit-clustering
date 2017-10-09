@@ -19,7 +19,7 @@ public class CommentsPerUserReducer extends Reducer<Text, DoubleWritable, Text, 
         if (totalFreq == 0 || totalComment == 0) {
             return;
         }
-        
+
         double hateFreqPerUser = totalFreq / totalComment;
 
 
