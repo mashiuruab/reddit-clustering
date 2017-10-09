@@ -22,7 +22,7 @@ public class App
 
         System.out.println(c.getTime());
 
-        SimpleDateFormat dateFormat = new SimpleDateFormat("HH");
+        SimpleDateFormat dateFormat = new SimpleDateFormat("dd-M-yyyy");
         String hour = dateFormat.format(c.getTime());
         System.out.println(hour);
     }
