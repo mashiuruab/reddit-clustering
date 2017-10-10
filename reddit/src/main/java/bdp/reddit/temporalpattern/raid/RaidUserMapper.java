@@ -16,6 +16,7 @@ import java.util.*;
 
 /*This mapper is written to find user hate frequency on a particular hour of a day
 the hour is not supplied as a command line argument or from static variable initially
+TODO:: this has a pre-requisite to run see the GLOBAL variable HOUR_OF_DAY
 * */
 
 public class RaidUserMapper extends Mapper<LongWritable, Text, Text, DoubleWritable> {
