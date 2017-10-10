@@ -1,0 +1,9 @@
+/user/jblkburn/reddit/comments/
+/user/jblkburn/reddit/submissions/
+
+hplevel
+
+bydate :
+
+comments : job_1506111908915_0475
+submissions : job_1506111908915_0476
