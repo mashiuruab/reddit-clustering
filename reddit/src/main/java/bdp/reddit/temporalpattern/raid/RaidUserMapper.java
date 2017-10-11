@@ -26,9 +26,7 @@ public class RaidUserMapper extends Mapper<LongWritable, Text, Text, DoubleWrita
     private static final String BODY = "body";
     private static final String CREATED_UTC = "created_utc";
 
-    private Gson gson = new Gson();
-    private Type type = new TypeToken<Map<String, String>>(){}.getType();
-    private static Map<String, String> HATE_DB = RedditUtils.getHateDb();
+    private static Map<String, String> HATE_DB = RedditUtils.getInstance().getHateDb();
 
     @Override
     protected void map(LongWritable key, Text json, Context context)
@@ -85,6 +83,8 @@ public class RaidUserMapper extends Mapper<LongWritable, Text, Text, DoubleWrita
     }
 
     private Map<String, String> getMap(Text json) {
+        Gson gson = new Gson();
+        Type type = new TypeToken<Map<String, String>>(){}.getType();
         return gson.fromJson(json.toString(), type);
     }
 }

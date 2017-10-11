@@ -18,9 +18,7 @@ public class CommentsPerUserMapper  extends Mapper<LongWritable, Text, Text, Dou
     private static final String AUTHOR_KEY = "author";
     private static final String BODY_KEY = "body";
 
-    private Gson gson = new Gson();
-    private Type type = new TypeToken<Map<String, String>>(){}.getType();
-    private static Map<String, String> HATE_DB = RedditUtils.getHateDb();
+    private static Map<String, String> HATE_DB = RedditUtils.getInstance().getHateDb();
 
     @Override
     protected void map(LongWritable key, Text json, Context context) throws IOException, InterruptedException {
@@ -52,6 +50,8 @@ public class CommentsPerUserMapper  extends Mapper<LongWritable, Text, Text, Dou
     }
 
     private Map<String, String> getMap(Text json) {
+        Gson gson = new Gson();
+        Type type = new TypeToken<Map<String, String>>(){}.getType();
         return gson.fromJson(json.toString(), type);
     }
 }

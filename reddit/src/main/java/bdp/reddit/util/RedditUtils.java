@@ -11,13 +11,13 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class RedditUtils {
-    private RedditUtils() {
+    private static RedditUtils instance;
 
+    private RedditUtils() {
+        init();
     }
 
-    private static Map<String, String> HATE_DB = new HashMap<>();
-
-    public static Map<String, String> getHateDb() {
+    private void init() {
         try {
             InputStream inputStream =  MapMultipleValueMapers.class.getClassLoader().getResourceAsStream("vocabulary.csv");
             Reader in = new InputStreamReader(inputStream);
@@ -32,7 +32,19 @@ public class RedditUtils {
         } catch (Exception e) {
             throw new RuntimeException(e);
         }
+    }
 
+    private Map<String, String> HATE_DB = new HashMap<>();
+
+    public Map<String, String> getHateDb() {
         return HATE_DB;
+    }
+
+    public static RedditUtils getInstance() {
+        if (instance == null) {
+            instance =  new RedditUtils();
+        }
+
+        return instance;
     }
 }
