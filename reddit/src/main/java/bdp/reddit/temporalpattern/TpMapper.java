@@ -1,13 +1,18 @@
 package bdp.reddit.temporalpattern;
 
-import bdp.reddit.util.RedditUtils;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 import org.apache.commons.lang.StringUtils;
-import org.apache.hadoop.io.*;
+import org.apache.hadoop.fs.FileSystem;
+import org.apache.hadoop.fs.Path;
+import org.apache.hadoop.io.DoubleWritable;
+import org.apache.hadoop.io.LongWritable;
+import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Mapper;
 
+import java.io.BufferedReader;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.lang.reflect.Type;
 import java.text.SimpleDateFormat;
 import java.util.*;
@@ -16,12 +21,15 @@ public class TpMapper extends Mapper<LongWritable, Text, LongWritable, DoubleWri
     private static final String BODY = "body";
     private static final String CREATED_UTC = "created_utc";
 
-    private static Map<String, String> HATE_DB = RedditUtils.getInstance().getHateDb();
+    private static String hateDictionaryPath = "/user/mashiur/vocabulary.txt";
+    private static String [] hateWords;
 
 
     @Override
     protected void map(LongWritable lineNumber, Text json, Context context)
             throws IOException, InterruptedException {
+        hateWords = readHateWordsFromFile(hateDictionaryPath, context);
+
         Map<String, String> jsonMap = getMap(json);
         String bodyAsString = jsonMap.get(BODY);
         String createdTime = jsonMap.get(CREATED_UTC);
@@ -38,7 +46,7 @@ public class TpMapper extends Mapper<LongWritable, Text, LongWritable, DoubleWri
         while (tokenizer.hasMoreTokens()) {
             String  term = tokenizer.nextToken();
 
-            if (HATE_DB.containsKey(term)) {
+            if (Arrays.binarySearch(hateWords, term) >= 0) {
                 hateTermCount++;
             }
 
@@ -69,5 +77,32 @@ public class TpMapper extends Mapper<LongWritable, Text, LongWritable, DoubleWri
         Gson gson = new Gson();
         Type type = new TypeToken<Map<String, String>>(){}.getType();
         return gson.fromJson(json.toString(), type);
+    }
+
+    private static String[] readHateWordsFromFile(String path, Context context) {
+        ArrayList<String> words = new ArrayList<String>();
+
+        if (hateWords != null && hateWords.length > 0) {
+            return hateWords;
+        }
+
+        try {
+            Path pt=new Path(path);
+            FileSystem fs = FileSystem.get(context.getConfiguration());
+            BufferedReader br =new BufferedReader(new InputStreamReader(fs.open(pt)));
+
+            String line = "";
+
+            while ((line = br.readLine()) != null) {
+                String[] vocab  = line.split(";");
+                words.add(vocab[0].toLowerCase().trim());
+            }
+            String [] arr = new String[words.size()];
+            br.close();
+            return words.toArray(arr);
+        }
+        catch (Exception ex) {
+            return null;
+        }
     }
 }

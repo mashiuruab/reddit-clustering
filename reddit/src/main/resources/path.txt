@@ -5,5 +5,28 @@ hplevel
 
 bydate :
 
-comments : application_1506111908915_0534, job_1506111908915_0534
-submissions :
+comments : job_1506111908915_0559
+
+hadoop job -list all | awk -v job_id=${job_1506111908915_0534} 'BEGIN{OFS="\t"; FS="\t"; final_state="Unknown"} $0 == "States are:" {getline; for(i=1;i<=NF;i++) { split($i,s," "); states[s[3]] = s[1] }} $1==job_id { final_state=states[$2]; exit} END{print final_state}'
+
+It is not  successful
+##########
+submissions :  application_1506111908915_0540, job_1506111908915_0540
+
+
+user :
+
+comments  : application_1506111908915_0536, job_1506111908915_0536
+submission  : application_1506111908915_0539, job_1506111908915_0539
+
+temporalPattern :
+
+comments  : application_1506111908915_0537, job_1506111908915_0537
+submissions : application_1506111908915_0538, job_1506111908915_0538
+
+
+
+
+url  to  track
+
+http://hadoop-master:8088/proxy/application_1506111908915_0538/

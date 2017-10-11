@@ -3,10 +3,14 @@ package bdp.reddit.util;
 import bdp.reddit.KMeans.tfidf.MapMultipleValueMapers;
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVRecord;
+import org.apache.hadoop.fs.FileSystem;
+import org.apache.hadoop.fs.Path;
 
+import java.io.BufferedReader;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.Reader;
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -47,4 +51,5 @@ public class RedditUtils {
 
         return instance;
     }
+
 }
