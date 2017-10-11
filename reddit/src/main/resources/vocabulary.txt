@@ -1,0 +1,1105 @@
+vocabulary;variant_of;meaning;language;about_ethnicity;about_nationality;about_religion;about_gender;about_sexual_orientation;about_disability;about_class;archaic
+786;;Designation for a Muslim or Muslim property.;mya;0;0;1;0;0;0;0;0
+969;;Designation for a Buddhist or Buddhist property.;mya;0;0;1;0;0;0;0;0
+abachabu;;Kisii slur for a member of the Luo ethnic group
+abagima;abachabu;Kisii slur for a member of the Luo ethnic group
+abaisia;abachabu;Kisii slur for a member of the Luo ethnic group
+abazungu;umuzungu;An English person.;kin;1;0;0;0;0;0;0;0
+abbo;abo;Australian Aboriginal person. Originally
+ABC;;[1] American-born Chinese [2] Australian-born Chinese;eng;1;1;0;0;0;0;0;0
+ABCD;;American-Born Confused Desi
+abd;;A person of African descent
+abeed;;Arabic slur for a black person
+abelungu;umlungu;An English person.;zul;0;0;0;0;0;0;0;0
+abid;abeed;Arabic slur for a black person
+abo;;Australian Aboriginal person. Originally
+Adolf;;A person of German descent
+af;;An African
+African catfish;;Referring to Muslims in Myanmar as an invasive species;eng;1;0;1;0;0;0;0;0
+Africoon;;Combination of African and 'coon'.;eng;1;0;0;0;0;0;0;0
+Afro-Saxon;;Caucasian person who 'acts black';eng;1;0;0;0;0;0;0;0
+Ahab;;From Moby-Dick. Ahab hunted the white whale.;;0;0;0;0;0;0;0;0
+Ahmadiyah;;Islam Sect;;0;0;1;0;0;0;0;0
+Ainu;;[1] A native Japanese islander from Hokkaido. [2] A primitive person.;jpn;1;0;0;0;0;0;0;0
+Ajam;;Ajam means non-Arab specifically Persian. It might be used in a racist way against Persians.;ara;1;1;0;0;0;0;0;1
+ajayee;;Kamba slur for members of the Maasai ethnic community
+akata;;Pejorative term for African-Americans
+akhbaroshim;;Combination of the word 'Arab'with the end of the Hebrew word 'rats';heb;1;0;0;0;0;0;0;0
+alaman;;A person of German descent
+albino;;A Caucasian person.;eng;1;0;0;0;0;0;0;0
+alligator bait;;A black person
+allochtoon;;Non-Dutch
+amakwerekwere;kwerekwere;A foreigner
+ambattar;;Unclean caste person;tam;0;0;0;0;0;0;1;0
+ame koh;;An American.;jpn;0;1;0;0;0;0;0;0
+Americoon;;Combination of American and 'coon';eng;1;0;0;0;0;0;0;0
+AmeriKKKan;;An American
+Ami;;Shortened from American
+Amo;;An Amish person.;eng;0;0;1;0;0;0;0;0
+anchor baby;;A child of illegal immigrants
+ang mor;;Singaporean slur for a Caucasian
+Angie;;Used in Quebec to denote English-speaking Canadians
+Anglo;;A Caucasian
+Ann;;A white woman to a black person
+ape;;A black person.;eng;1;0;0;0;0;0;0;0
+apple;;An American Indian (Native American) who is 'red on the outside
+arabush;;Arabs
+aracuano;;Arab
+arapis;;A person of African descent
+Argie;;An Argentinian.;eng;0;1;0;0;0;0;0;0
+Armo;;A person of Armenian descent.;eng;1;0;0;0;0;0;0;0
+Arsch;Arschloch;[1] asshole [2] someone you don't like because of his behavior;deu;0;0;0;0;0;0;0;0
+Arschgeburt;;someone born from a rectum;deu;0;0;0;0;0;0;0;0
+Arschloch;;[1] asshole [2] someone you don't like because of his behavior;deu;0;0;0;0;0;0;0;0
+Asylschmarotzer;;Insult to refugees for exploiting there reliefs;deu;1;0;0;0;0;0;0;0
+Aunt Jane;Aunt Jemima;A black woman who 'kisses up' to white people
+Aunt Jemima;;A black woman who 'kisses up' to white people
+Aunt Mary;Aunt Jemima;A black woman who 'kisses up' to white people
+Aunt Sally;Aunt Jemima;A black woman who 'kisses up' to white people
+avalivavandu;;Luhya slur for members of the Kikuyu
+avaseeve;avalivavandu;Luhya slur for members of the Kikuyu
+azn;;Abbreviation for 'asian';eng;1;0;0;0;0;0;0;0
+azungu;;An English person.;nya;1;0;0;0;0;0;0;0
+badugudugu;mudugudugu;Originally used by southern ethnic Ugandans (Baganda
+bahadur;;Bahadur
+bai tou;;Mandarin term for a Caucasian;cmn;1;0;0;0;0;0;0;0
+baijo;;Stranger or foreigner;jpn;1;0;0;0;0;0;0;0
+Baitola;boiola;Homossexual do sexo masculino;por;0;0;0;0;1;0;0;0
+bak guiy;;Cantonese term for Caucasian
+balija;;Stupid Muslim
+baluba;;[1] A person of African ancestry
+baluga;;Filipino term for a black person;fil;1;0;0;0;0;0;0;0
+bamboo coon;;A person of Chinese ancestry;eng;1;1;0;0;0;0;0;0
+banana;;An Asian-American who has lost their heritage. Yellow on the outside
+banana bender;;An Australian from Queensland;eng;0;1;0;0;0;0;0;0
+banana lander;banana bender;An Australian from Queensland;eng;0;1;0;0;0;0;0;0
+Bangla;;Term used in Malaysia and Singapore to denote a Bangladeshi person
+banjo lips;;An African-American;eng;1;0;0;0;0;0;0;0
+bans and cans;;Mexicans
+basungu;musungu;An English person.;bem;1;0;0;0;0;0;0;0
+Bazi;;Bazi is an offensive term used in Northern Germany to describe Bavarians. Derived from the ambiguous Bavarian/Austrian dialect term denoting a sly fellow.;deu;0;1;0;0;0;0;0;0
+bazungu;muzungu;An English person.;lug;0;0;0;0;0;0;0;0
+beach nigger;;An overly tanned Caucasian;eng;1;0;0;0;0;0;0;0
+bean dipper;;A non-hispanic person who dates hispanic women;eng;1;0;0;0;0;0;0;0
+beaner;;People of Mexican descent or
+beaner shnitzel;;Offspring of a hispanic parent and a German parent;eng;1;1;0;0;0;0;0;0
+beaney;beaner;People of Mexican descent or
+belegana;;A Caucasian;nav;1;0;0;0;0;0;0;0
+Bengali;;This is not hate speech when applied to a Bengali citizen or inhabitant of Bangladesh
+berberaap;;Moroccan
+bergie;;A homeless person in Cape Town
+beur;;French-born offspring of North African parents;fra;1;1;0;0;0;0;0;0
+beurette;beur;French-born offspring of North African parents;fra;1;1;0;0;0;0;0;0
+bhrempti;;An Indian
+biba;;Male homosexual;por;0;0;0;0;1;0;0;0
+bicha;;Male homosexual;por;0;0;0;0;1;0;0;0
+bichinha;bicha;Male homosexual;por;0;0;0;0;1;0;0;0
+bint;;In the UK
+bird;;In the UK
+bitch;;A human female;eng;0;0;0;1;0;0;0;0
+bitter clinger;;one who clings to their guns and religions;eng;0;0;0;0;0;0;1;0
+bix nood;;An African-American;eng;1;0;0;0;0;0;0;0
+black Barbie;;A black woman when she wears her hair and makeup to try and look like a white woman.;eng;1;0;0;0;0;0;0;0
+black dago;;[1] A Sicilian [2] A darker-skinned Italian [3] An Italian of allegedly African ancestry;eng;1;1;0;0;0;0;0;0
+blanco;;A Caucasian.;spa;1;0;0;0;0;0;0;0
+blaxican;;A person of mixed Mexican and African ancestry;eng;1;1;0;0;0;0;0;0
+blockhead;;In Australia
+bludger;;[1] A shiftless or unemployed person. [2] A pimp.;eng;0;0;0;0;0;0;1;0
+bluegum;;An African-American perceived as being lazy and who refuses to work.;eng;1;0;0;0;0;0;0;0
+boche;;A German (shortened from the French term caboche dure 'hard head' or 'stubborn').;fra;0;1;0;0;0;0;0;1
+boffer;;[1] In Hawaii or Polynesia
+bog;;[1] A homosexual. [2] A Swede.;fin;1;1;0;1;1;0;0;0
+bog hopper;Bog Irish;A person of common or low class Irish ancestry.;eng;0;1;0;0;0;0;1;0
+Bog Irish;;A person of common or low class Irish ancestry.;eng;0;1;0;0;0;0;1;0
+bog jumper;Bog Irish;A person of common or low class Irish ancestry.;eng;0;1;0;0;0;0;1;0
+bog trotter;Bog Irish;A person of common or low class Irish ancestry.;eng;0;1;0;0;0;0;1;0
+bogan;;[1] A male Native American. [2] In Australia or New Zealand
+bohunk;;A person of east-central European descent. Originally referred to those of Bohemian (now Czech Republic) descent. It was commonly used toward Ukrainian immigrants during the early 20th century.;;1;1;0;0;0;0;0;0
+boiola;;Homossexual do sexo masculino;por;0;0;0;0;1;0;0;0
+bolillo;;Mexican slur for a Caucasian;spa;1;0;0;0;0;0;0;0
+bong;boong;[1] Australian aboriginal. Boong
+boo;jigaboo;A black person. Jiggaboo or jigabo is from a Bantu verb tshikabo
+boofer;boffer;[1] In Hawaii or Polynesia
+boojie;;[1] A middle-class American
+book book;;In Hawaii
+boon;booner;Canberra word for white trash or redneck
+booner;;Canberra word for white trash or redneck
+boong;;[1] Australian aboriginal. Boong
+boonga;boong;[1] Australian aboriginal. Boong
+boonie;boong;[1] Australian aboriginal. Boong
+bor;;Derogatory word for Tutsis in the Congo
+border bunny;wetback;A person of Latino descent
+border hopper;wetback;A person of Latino descent
+border jumper;wetback;A person of Latino descent
+border nigger;wetback;A person of Latino descent
+bosch;boche;A German (shortened from the French term caboche dure 'hard head' or 'stubborn').;fra;0;1;0;0;0;0;0;1
+bosche;boche;A German (shortened from the French term caboche dure 'hard head' or 'stubborn').;fra;0;1;0;0;0;0;0;1
+boskur;;Slovenian slur for uneducated workers from Bosnia and Herzegovina
+bosyanju;;Luhya slur for members of the Sabaot ethnic community
+bougnoule;;In France
+Bounty bar;;White on the inside and brown on the outside
+boxhead;;A person of German descent.;eng;0;1;0;0;0;0;0;0
+bozgor;;[1] Term used in Eastern Europe for ethnic Hungarians living in different countries after WWI. [2] A Romanian who has moved to Transylvania (which used to be under Hungary)
+brass ankle;;[1] A person of mixed Caucasian
+Braun;;[1] brown [2] something associated with nazis
+brownie;;[1] A person of mixed white and black ancestry; a mulatto. [2] A young
+bubble;;A person of Greek descent. 'Bubble and squeak' is Cockney slang for Greek.;eng;1;1;0;0;0;0;0;0
+buck;;[1] A male Native American. [2] A male black person.;eng;1;0;0;0;0;0;0;0
+buckethead;;A person of Korean descent.;eng;1;1;0;0;0;0;0;0
+buckra;;African-Americans slur for Caucasians in the Southeast United States 
+Buckwheat;;A black person
+Buddhahead;;An Asian. Also used by mainland Japanese Americans to refer to Hawaiian Japanese Americans since World War II.;eng;1;0;0;0;0;0;0;0
+budos olah;;Hungarian slur in Transylvania
+buffie;;[1] A black person. [2] a young
+bug eater;;An person of Asian descent.;eng;1;0;0;0;0;0;0;0
+bugre;;A Brazilian indigenous Indian;por;1;0;0;0;0;0;0;0
+buk buk;book book;In Hawaii
+bule;;A foreigner
+buleh;;[1] An albino [2] A Caucasian;ind;1;0;0;0;0;0;0;0
+Bulgaroskopian;;Used by Greeks when referring to the Macedonians in an attempt to deny self-identification;ell;0;1;0;0;0;0;0;0
+bumblebee;;A person of mixed black and Asian parentage.;eng;1;0;0;0;0;0;0;0
+bume;;Suri slur for neighboring tribe
+bung;boong;[1] Australian aboriginal. Boong
+bunga;boong;[1] Australian aboriginal. Boong
+burrhead;;A black person (referencing stereotypical hair type).;eng;1;0;0;0;0;0;0;0
+butterhead;;[1] A person of African descent. [2] WWII slur for a Japanese person.;eng;1;1;0;0;0;0;0;0
+buzi;;Gay (male)hu;hun;0;0;0;0;1;0;0;0
+cab nigger;;A person of Indian or Middle Eastern descent
+cabezas cuadradas;;Literally 'square heads'
+cabezita negra;;An Argentine of mixed or indigenous heritage;spa;1;0;0;0;0;0;0;0
+caboclo;;[1] Brazilian word for a person of mixed indigenous and European parentage. [2] Can also denote a culturally assimilated person of full Amerindian descent.;por;1;0;0;0;0;0;0;0
+caboco;caboclo;[1] Brazilian word for a person of mixed indigenous and European parentage. [2] Can also denote a culturally assimilated person of full Amerindian descent.;por;1;0;0;0;0;0;0;0
+caco;;A Puerto Rican who adopts hip-hop fashion;spa;0;0;0;0;0;0;1;0
+cacorro;;A male homosexual;spa;0;0;0;0;1;0;0;0
+caffre;kaffir;[1] A black person (South Africa) [2] A non-Muslim of any ethnicity. Derived from Arabic Kafir - disbeliever or infidel.;ara;1;1;1;0;0;0;0;0
+cafuzo;;A person of mixed indigenous and African parentage. Similar origins as Spanish word zambo.;por;1;0;0;0;0;0;0;0
+camel cowboy;camel jockey;Person of Middle Eastern descent.;eng;1;0;0;0;0;0;0;0
+camel fucker;;[1] An Arab. [2] A Muslim.;eng;1;1;1;0;0;0;0;0
+camel humper;camel jockey;Person of Middle Eastern descent.;eng;1;0;0;0;0;0;0;0
+camel jacker;camel jockey;Person of Middle Eastern descent.;eng;1;0;0;0;0;0;0;0
+camel jockey;;Person of Middle Eastern descent.;eng;1;0;0;0;0;0;0;0
+can eater;;An Austrialian
+carcamano;;In Brazil
+carpet pilot;;A person of Arabic descent
+carrot snapper;;A Mormon
+casado;;In Sri Lanka
+Caublasian;;A person of mixed Caucasian
+cave nigger;;A person of Middle Eastern descent;eng;1;0;0;0;0;0;1;0
+cefur;;Slovenian slur for a person of southern Slavic or Balkan heritage
+celestial;;In the late 1900s
+cerrero;;In Puerto Rico
+cetnik;;[1] Member of Serbian fascist movement
+chach chach;;A Jewish separadic man who is thought to be volgar or violent person.;heb;1;0;0;0;0;0;1;0
+chakh chakh;;Employed by Ashkenazi Jews and integrated Israelis in reference to Mizrahi Jews
+chalckiliyar;;Unclean (low) caste person;tam;0;0;0;0;0;0;1;0
+chale;;[1] Derogatory term used in Mexico and elsewhere to denote a Chinese person. [2] Can also mean friend in Ghana or West Africa.;spa;1;1;0;0;0;0;0;0
+champinon;;In Spain
+chan koro;;A person of Chinese ancestry;jpn;0;1;0;0;0;0;0;1
+chankoro;;Japanese slur for a Chinese person
+chapat;chapta;A person of Asian descent;urd;1;0;0;0;0;0;0;0
+chapata;chapta;A person of Asian descent;urd;1;0;0;0;0;0;0;0
+chapeton;;A recent European immigrant to Latin America;spa;1;0;0;0;0;0;0;0
+chapetona;chapeton;A recent European immigrant to Latin America;spa;1;0;0;0;0;0;0;0
+chapin;;A Guatemalan;spa;0;1;0;0;0;0;0;0
+chapina;chapin;A Guatemalan;spa;0;1;0;0;0;0;0;0
+chapta;;A person of Asian descent;urd;1;0;0;0;0;0;0;0
+Charlie;;[1] To African-Americans of the 1960s-1970s
+charnega;charnego;A Catalonian immigrant;spa;1;0;0;0;0;0;0;0
+charnego;;A Catalonian immigrant;spa;1;0;0;0;0;0;0;0
+charva;;A disreputable and/or working class person;eng;0;0;0;0;0;0;1;0
+charver;charva;A disreputable and/or working class person;eng;0;0;0;0;0;0;1;0
+chav;;In the UK
+chee chee;;An Anglo-Indian or Eurasian half-caste [probably from Hindi chi-chi fie!
+cheena;;Person of Chinese descent.;sin;0;1;0;0;0;0;0;0
+cheese eating surrender monkey;;A French person
+chefur;kaffir;[1] A black person (South Africa) [2] A non-Muslim of any ethnicity. Derived from Arabic Kafir - disbeliever or infidel.;ara;1;1;1;0;0;0;0;0
+chekwa;;Filipino slur for a Chinese person;tgl;1;1;0;0;0;0;0;0
+chele;guero;A word used in Mexico to denote a person of fair complexion or with blond or red hair;spa;0;0;0;0;0;0;0;0
+chelo;guero;A word used in Mexico to denote a person of fair complexion or with blond or red hair;spa;0;0;0;0;0;0;0;0
+chernozhopiy;;Russian slur for any dark-skinned person
+cheuchter;teuchter;A person from the north of Scotland or rural Scottish areas.;sco;1;1;0;0;0;0;0;0
+chi chi;chee chee;An Anglo-Indian or Eurasian half-caste [probably from Hindi chi-chi fie!
+chief;;A male Native American.;;0;0;0;0;0;0;0;0
+chigger;;[1] A Chinese person trying to act like a black person. [2] A person of mixed black and Asian parentage.;eng;1;1;0;0;0;0;0;0
+Chilango;;Mexican slang demonym for a person born in the suburbs or surrounding areas of Mexico City who has moved to Mexico City;spa;0;1;0;0;0;0;0;0
+chili shitter;;A person of Hispanic descent.;eng;1;0;0;0;0;0;0;0
+Chinaman;;Found offensive
+Chinese wetback;;A Filipino
+Chinetoque;;A Chinese person;fra;1;1;0;0;0;0;0;0
+ching chong;;A person of perceived Chinese or East Asian descent. An offensive term that has raised considerable controversy
+chingeleshi;;An English person.;bem;1;0;0;0;0;0;0;0
+chinig;;A person of mixed black and Chinese parentage.;eng;1;1;0;0;0;0;0;0
+chinja chinja;;Literally 'butcher
+chink;;A person of Chinese descent. Considered extremely derogatory
+chink a billy;;A rural person of Chinese descent.;eng;1;1;0;0;0;0;1;0
+chizungu;azungu;An English person.;nya;1;0;0;0;0;0;0;0
+chleuh;;A person of German descent. From the name of the Chleuh
+cholero;;Not classy
+cholo;;[1] In Latin America
+chon;;A Korean.;jpn;1;1;0;0;0;0;0;0
+chon koh;chon;A Korean.;jpn;1;1;0;0;0;0;0;0
+chonky;;A person of Asian descent with perceived Caucasian mannerisms. Concatenation of Chinese and honky.;eng;1;1;0;0;0;0;0;0
+choochter;teuchter;A person from the north of Scotland or rural Scottish areas.;sco;1;1;0;0;0;0;0;0
+chorik;;Kalenjin slur for a member of the Kikuyu community
+chosenjin;;A Korean.;jpn;1;1;0;0;0;0;0;0
+Christ killer;;A Jew
+chuchter;teuchter;A person from the north of Scotland or rural Scottish areas.;sco;1;1;0;0;0;0;0;0
+chug;;[1] An individual of Canadian aboriginal descent. [2] A Native American
+chunky;chonky;A person of Asian descent with perceived Caucasian mannerisms. Concatenation of Chinese and honky.;eng;1;1;0;0;0;0;0;0
+chupta;chapta;A person of Asian descent;urd;1;0;0;0;0;0;0;0
+ciapak;ciapata;A person from Pakistan or India named after traditional bread (chapati). This term is common among Polish immigrants in the UK;pol;1;1;0;0;0;0;0;0
+ciapata;;A person from Pakistan or India named after traditional bread (chapati). This term is common among Polish immigrants in the UK;pol;1;1;0;0;0;0;0;0
+ciapaty;ciapata;A person from Pakistan or India named after traditional bread (chapati). This term is common among Polish immigrants in the UK;pol;1;1;0;0;0;0;0;0
+Cioara;;pejorative term used for Romanian Roma;ron;1;0;0;0;0;0;0;0
+cis male;;Literally defined as a non-transgendered male
+clam;clamhead;A Scientologist
+clamhead;;A Scientologist
+cocoa;;A black person.;eng;1;0;0;0;0;0;0;0
+Cocoa Puff;cocoa;A black person.;eng;1;0;0;0;0;0;0;0
+cocolo;;[1] In the Caribbean
+coconut;;[1] A person of Hispanic descent who's accused of acting white. [2] In
+colored;;A black person.;eng;1;0;0;0;0;0;0;0
+coloured;colored;A black person.;eng;1;0;0;0;0;0;0;0
+conspiracy theorist;;One who questions state doctrine;eng;0;0;0;0;0;0;1;0
+coolie;;[1] In North America
+coon;;A black person. Possibly from Portuguese barracco
+coon ass;;A person of Cajun ethnicity.;eng;1;0;0;0;0;0;0;0
+cotton picker;;Originates from pre-Civil War US. Refers to the slaves who picked cotton all day at the plantations.;eng;1;0;0;0;0;0;0;1
+cow kisser;;A person of Indian descent
+cowboy killer;;A Native American.;eng;1;0;0;0;0;0;0;0
+cracker;;A poor Appalachian or poor Southerner
+cripple;;A disabled person.;eng;0;0;0;0;0;1;0;0
+crow;;A black person
+crucco;;A person of German descent
+culona inchiavabile;;Culona is a woman with a large backside. Inchiavabile is an unacceptable sex partnet.;ita;0;0;0;1;0;0;0;0
+cultuurverrijker;;Immigrant ethnic minority or its members
+cunt;;[1] Comparing someone (usually Male) to female genitalia. A variant of pussy
+curry muncher;;A person of East Indian origin.;eng;1;0;0;0;0;0;0;0
+curry slurper;curry muncher;A person of East Indian origin.;eng;1;0;0;0;0;0;0;0
+curry stinker;curry muncher;A person of East Indian origin.;eng;1;0;0;0;0;0;0;0
+Cushi;Cushite;[1] A person of east African descent
+Cushite;;[1] A person of east African descent
+dago;;An Italian
+dambaya;;A person of Indian nationality (living in India). This term is used mostly by office workers of Sri Lanka
+darkey;darky;A black person. The term may cause offense. though Randall Kennedy's Nigger: The Strange Career of a Troublesome Word notes that some judges have considered 'darky' a 'term of endearment.' In South Africa
+darkie;darky;A black person. The term may cause offense. though Randall Kennedy's Nigger: The Strange Career of a Troublesome Word notes that some judges have considered 'darky' a 'term of endearment.' In South Africa
+darky;;A black person. The term may cause offense. though Randall Kennedy's Nigger: The Strange Career of a Troublesome Word notes that some judges have considered 'darky' a 'term of endearment.' In South Africa
+ddang kong;;Korean slur for a Vietnamese person
+dego;dago;An Italian
+demala;;Used by the Sinhala majority to refer to a person of Tamil origin. Even though the proper Sinhala noun to refer a Tamil ethic group is Demala
+dhimmi;;Used by opponents of Islamisation and Muslim immigration to denote those who in their eyes facilitate it
+diaper head;raghead;An Arab
+dinge;;A black person. Used in the novel 'To Kill a Mockingbird'.;eng;1;0;0;0;0;0;0;0
+dingo fucker;;An Australian;eng;0;1;0;0;0;0;0;0
+dink;;[1] An Asian. [2] A Vietnamese person. [3] A North Vietnamese soldier or guerrilla in the Vietnam War.;eng;1;1;0;0;0;0;0;1
+disminuidos;;Disabled;spa;0;0;0;0;0;1;0;0
+ditsoon;tizzone;Italian term for a black person
+dogan;;In Canada
+dogun;dogan;In Canada
+dole bludger;bludger;[1] A shiftless or unemployed person. [2] A pimp.;eng;0;0;0;0;0;0;1;0
+domes;;Hispanic word for a person from the Dominican Republic
+doryphore;;Doryphore means Colorado potato beetle in French. This term was used during World War II
+doss;;[1] A religious jewish man. [2] An ultra-orthodox jewish man
+dot head;;A person of Indian descent
+dune coon;sand nigger;A person of Arab descent.;eng;1;0;0;0;0;0;0;0
+dune nigger;sand nigger;A person of Arab descent.;eng;1;0;0;0;0;0;0;0
+dyke;;A lesbian.;eng;0;0;0;1;1;0;0;0
+dyke jumper;;A person of Dutch origin.;eng;0;1;0;0;0;0;0;0
+egg;;Denotes white males who identify with East Asian culture
+eggplant;;A black person.;eng;1;0;0;0;0;0;0;0
+eh hole;;A Canadian. Variation on the ubiquitous 'eh' and the word 'asshole'.;eng;0;1;0;0;0;0;0;0
+eight ball;;A black person.;eng;1;0;0;0;0;0;0;0
+el abeed;abeed;Arabic slur for a black person
+emoit;;Turkana slur for members of the Pokot ethnic community
+escuaca;;Derogatory for Hugo Chávez opponents;spa;0;0;0;0;0;0;0;0
+eurotrash;;A European.;eng;1;0;0;0;0;0;0;0
+eyetie;;An Italian person. Originated through the mispronunciation of 'Italian' as 'Eye-talian.';eng;1;1;0;0;0;0;0;0
+fag;;A homosexual.;eng;0;0;0;0;1;0;0;0
+faggot;fag;A homosexual.;eng;0;0;0;0;1;0;0;0
+Fairy;;A Homosexual;eng;0;0;0;0;1;0;0;0
+falang;farang;A non-Thai person.;tha;1;1;0;0;0;0;0;0
+Fan Kuei;;A Caucasian. Chinese for 'ocean ghosts'
+fanook;;Italian term for one who is homosexual
+farang;;A non-Thai person.;tha;1;1;0;0;0;0;0;0
+faranji;;Literally means foreigner but predominantly used in Ethiopia to refer to white people. Very common since white people are still a curiosity in most parts of the country and usually not intended to be offensive but sometimes used in a pejorative manner. Similar to the usage of mzungu in Swahili.;amh;1;0;0;0;0;0;0;0
+fashisty;;A person of German descent.;rus;0;1;0;0;0;0;0;0
+fenucca;fanook;Italian term for one who is homosexual
+fez;;An Arab
+Ficker;;fucker
+filhos da terra;;In São Tomé and Príncipe
+Fin;;Moroccan. Cynical usage
+finook;fanook;Italian term for one who is homosexual
+firangi;;A European.;ara;1;0;0;0;0;0;0;0
+FOB;fresh off the boat;A person of foreign nationality.;eng;0;1;0;0;0;0;0;0
+fog nigger;;A black person of British nationality.;eng;1;1;0;0;0;0;0;0
+Fotze;;[1] vagina
+four by two;;A Jewish person. Four-by-two is Cockney rhyming slang for Jew.;eng;1;0;1;0;0;0;0;0
+fresh off the boat;;A person of foreign nationality.;eng;0;1;0;0;0;0;0;0
+frits;;A person of German descent.;bul;0;1;0;0;0;0;0;0
+fritsove;frits;A person of German descent.;bul;0;1;0;0;0;0;0;1
+Fritz;;A person of German descent.;deu;0;1;0;0;0;0;0;1
+frog;;A French person. Prior to 19th century
+Froschschenkelfresser;;[1] someone animalistically eating frog legs [2] a person from France;deu;0;1;0;0;0;0;0;0
+fruit;;A homosexual.;eng;0;0;0;0;1;0;0;0
+fryc;;The name fryc
+fryce;fryc;The name fryc
+fuzzy;;A black person.;eng;1;0;0;0;0;0;0;0
+fuzzy wuzzy;;Colonialist term used to refer to the Hadendoa warriors in the 19th Century.;eng;1;0;0;0;0;0;0;1
+gabacho;;[1] Chicano pejorative term for an English-speaking
+gable;;A black person.;eng;1;0;0;0;0;0;0;0
+gaijin;;A non-Japanese person. Shortened form of 'Gaikokujin' (person from another country).;jpn;1;1;0;0;0;0;0;0
+gaiko;gaijin;A non-Japanese person. Shortened form of 'Gaikokujin' (person from another country).;jpn;1;1;0;0;0;0;0;0
+gator bait;alligator bait;A black person
+Gaurkh;;Derogatory term for Nepali servants.;nep;1;1;0;0;0;0;0;0
+geitenneuker;;Muslim
+gender bender;;Pejorative term for sexually ambiguous individual;eng;0;0;0;1;1;0;0;0
+Gerudo;;A Muslim female. Probably formed from the name of the Gerudo people
+gew;;A German Jew.;eng;1;1;1;0;0;0;0;0
+ghetto;;Used to describe urban blacks.;eng;1;0;0;0;0;0;0;0
+ghetto hamster;;A black child.;eng;1;0;0;0;0;0;0;0
+ghost;;A Caucasian;eng;1;0;0;0;0;0;0;0
+giaour ;;A non-Muslim
+gin;;In Australia
+gin jockey;;In Australia
+ginger;;Person with red hair;eng;1;0;0;0;0;0;0;0
+ginzo;guinea;A person of Italian birth or descent. Most likely derived from 'Guinea Negro
+gipp;gyppo;[1] A Romani people. [2] Egyptians. These are variations of 'Gypsy'
+gippo;gyppo;[1] A Romani people. [2] Egyptians. These are variations of 'Gypsy'
+Glatze;;[1] a bald head [2] a right wing extremist with shaved head;deu;0;0;0;0;0;0;0;0
+gokiburi;;A Korean
+golliwog;;Originally a children's literary character and type of black doll
+goober;;A rural person or resident of a small town.;eng;0;0;0;0;0;0;0;1
+gook;;An Asian
+gook eye;gook;An Asian
+gooky;gook;An Asian
+goomba;goombah;Considered a slur when used by non-Italians to describe an Italian.;ita;1;1;0;0;0;0;0;0
+goombah;;Considered a slur when used by non-Italians to describe an Italian.;ita;1;1;0;0;0;0;0;0
+gora;;A Caucasian;urd;1;0;0;0;0;0;0;0
+goy;;A Hebrew biblical term for 'Nation' or 'People'. By Roman times it had also acquired the meaning of 'non-Jew'. In English
+goyim;goy;A Hebrew biblical term for 'Nation' or 'People'. By Roman times it had also acquired the meaning of 'non-Jew'. In English
+goyum;goy;A Hebrew biblical term for 'Nation' or 'People'. By Roman times it had also acquired the meaning of 'non-Jew'. In English
+greaseball;;A person of Italian descent. It can also refer to any person of Mediterranean / Southern European descent or Hispanic descent.;eng;1;1;0;0;0;0;0;0
+greaser;greaseball;A person of Italian descent. It can also refer to any person of Mediterranean / Southern European descent or Hispanic descent.;eng;1;1;0;0;0;0;0;0
+gringa;gringo;A foreigner; especially used disparagingly against North Americans and North Europeans in Latin America. (Likely from the Spanish word 'griego'
+gringo;;A foreigner; especially used disparagingly against North Americans and North Europeans in Latin America. (Likely from the Spanish word 'griego'
+groid;;A black person. Derived from 'negroid'.;eng;1;0;0;0;0;0;0;0
+guajiro ;;A peasant or rural person
+guala;;A person who's overt about his/her Hispanic descent
+guala guala;guala;A person who's overt about his/her Hispanic descent
+gub;;In Australia
+gubba;gub;In Australia
+guera;guero;A word used in Mexico to denote a person of fair complexion or with blond or red hair;spa;0;0;0;0;0;0;0;0
+guero;;A word used in Mexico to denote a person of fair complexion or with blond or red hair;spa;0;0;0;0;0;0;0;0
+guerro;guero;A word used in Mexico to denote a person of fair complexion or with blond or red hair;spa;0;0;0;0;0;0;0;0
+guido;;An Italian-American male. Derives from the Italian given name
+guinea;;A person of Italian birth or descent. Most likely derived from 'Guinea Negro
+guizi;;Pejorative term used in Mainland China and Taiwan to denote foreigners
+gummihals;;Swiss German for 'rubber-neck.' Perhaps based on the stereotype of Germans talking too much or nodding their heads endlessly when listening to superiors.;gsw;0;1;0;0;0;0;0;0
+gun burglar;gin jockey;In Australia
+gurrier;;In Ireland
+gwailo;gweilo;Pejorative term used in south of Mainland China and Hong Kong to denote a white man. Loosely translated as 'foreign devil;' more literally
+Gwat;;Short for Guatemalan.;eng;0;1;0;0;0;0;0;0
+gweilo;;Pejorative term used in south of Mainland China and Hong Kong to denote a white man. Loosely translated as 'foreign devil;' more literally
+gyp;gyppo;[1] A Romani people. [2] Egyptians. These are variations of 'Gypsy'
+gypo;gyppo;[1] A Romani people. [2] Egyptians. These are variations of 'Gypsy'
+gyppie;gyppo;[1] A Romani people. [2] Egyptians. These are variations of 'Gypsy'
+gyppo;;[1] A Romani people. [2] Egyptians. These are variations of 'Gypsy'
+gyppy;gyppo;[1] A Romani people. [2] Egyptians. These are variations of 'Gypsy'
+haatmeneer;;Muslim
+hadji;haji;Used to refer to Iraqis
+hagwei;;A black person
+hairyback;;A derogatory term for Afrikaners;eng;1;0;0;0;0;0;0;0
+haji;;Used to refer to Iraqis
+hajji;haji;Used to refer to Iraqis
+half breed;;One who is of mixed race.;eng;1;0;0;0;0;0;0;0
+halfrican;;Denotes a person that is half African.;eng;1;0;0;0;0;0;0;0
+hamba;hambaya;In Sri Lanka
+hambaya;;In Sri Lanka
+han nichi;;Enemy of Japan;jpn;1;1;0;0;0;0;0;0
+Hans;;Used for any Germanic people
+haole;;A non-native
+hapankaali;;A person of German descent
+hapshi;;A black person
+hayquay;hagwei;A black person
+hayseed;;A rural person.;eng;0;0;0;0;0;0;1;0
+hebe;;A Jewish person
+hebro;;A black Jew
+heeb;hebe;A Jewish person
+heinie;;A person of German descent.;eng;0;1;0;0;0;0;0;0
+Helga;;Helga from German name Helga. It is a term to describe a German woman
+hick;;A rural person.;eng;0;0;0;0;0;0;1;0
+higger;;A Hindu person with preceived black mannerisms.;eng;1;0;1;0;0;0;0;0
+hillbilly;;A rural person
+Hitomodoki;;Pseudo-human
+ho;;[1] A woman
+hoe;ho;[1] A woman
+homppeli;;homosexual;fin;0;0;0;0;1;0;0;0
+honkey;honky;A white person. Derived from an African-American pronunciation of 'hunky'
+honkie;honky;A white person. Derived from an African-American pronunciation of 'hunky'
+honky;;A white person. Derived from an African-American pronunciation of 'hunky'
+Honyak;Hunyak;A Hungarian-Polish person.;eng;0;1;0;0;0;0;0;0
+Honyock;Hunyak;A Hungarian-Polish person.;eng;0;1;0;0;0;0;0;0
+hoosier;;A rural or unsophisticated person;eng;0;0;0;0;0;0;1;0
+hoser;;In Canada
+house nigger;;As with Uncle Tom
+Hun;;[1] A German
+Hunkie;Hunky;[1] A Hungarian. [2] A person of central or east European birth or descent.;eng;1;1;0;0;0;0;0;0
+Hunky;;[1] A Hungarian. [2] A person of central or east European birth or descent.;eng;1;1;0;0;0;0;0;0
+Hunni;;Literally Hun. Derogatory
+Hunyak;;A Hungarian-Polish person.;eng;0;1;0;0;0;0;0;0
+Hunyock;Hunyak;A Hungarian-Polish person.;eng;0;1;0;0;0;0;0;0
+Hure;;a female prostitute;deu;0;0;0;1;0;0;0;0
+Hurensohn;;son of a female prostitute;deu;0;0;0;0;0;0;1;0
+hymie;;A Jewish person
+ice monkey;;A Finn.;eng;0;1;0;0;0;0;0;0
+ice nigger;;A black Canadian.;eng;1;1;0;0;0;0;0;0
+idiot;;A mentally retarded person.;eng;0;0;0;0;0;1;0;0
+ike;ikey;A Jewish person (from Isaac and Moses).;eng;1;0;0;0;0;0;0;0
+ikey;;A Jewish person (from Isaac and Moses).;eng;1;0;0;0;0;0;0;0
+ikey mo;ikey;A Jewish person (from Isaac and Moses).;eng;1;0;0;0;0;0;0;0
+ikizungu;umuzungu;An English person.;kin;1;0;0;0;0;0;0;0
+iky;ikey;A Jewish person (from Isaac and Moses).;eng;1;0;0;0;0;0;0;0
+imeet;;Maasai slur for a member of the Kikuyu community
+impedido;;Disabled;spa;0;0;0;0;0;1;0;0
+incapaz;;Disabled;spa;0;0;0;0;0;1;0;0
+india;indio;A word used in Mexico to denote a person of dark brown or black hair and of browner skin tones and/or Amerindian or Afro-Mexican origin;spa;1;0;0;0;0;0;0;0
+indio;;A word used in Mexico to denote a person of dark brown or black hair and of browner skin tones and/or Amerindian or Afro-Mexican origin;spa;1;0;0;0;0;0;0;0
+indio ladino;indio;A word used in Mexico to denote a person of dark brown or black hair and of browner skin tones and/or Amerindian or Afro-Mexican origin;spa;1;0;0;0;0;0;0;0
+Indon;;Term used in Malaysia and Singapore to denote an Indonesian
+injun;;A Native American
+Inselaffen;;A British person
+intsik;;Filipino slur for a Chinese person;tgl;1;1;0;0;0;0;0;0
+invalidos;;Disabled;;0;0;0;0;0;1;0;0
+inyenzi;;In Rwanda in the 1990s
+island nigger;;A Polynesian.;eng;1;1;0;0;0;0;0;0
+ita koh;;An Italian.;jpn;0;1;0;0;0;0;0;0
+jabonee;;An unassimilated or first-generation Italian
+jant;;In Ireland
+Jap;;[1] A Japanese soldier or national
+Japana;;Person of Japanese descent.;sin;0;1;0;0;0;0;0;0
+japie;;Derogatory term for a Caucasian South African
+Japse;;a person from Japan;deu;0;1;0;0;0;0;0;0
+jareer;;Ethnic slur for Bantu Africans
+jathi;;Embu slur for a member of the Luo ethnic group
+Jerry;;A German
+Jewbacca;;A hairy person of Jewish ancestry
+jhant;jant;In Ireland
+jibaro;;In Puerto Rico
+jig;jigaboo;A black person. Jiggaboo or jigabo is from a Bantu verb tshikabo
+jigaboo;;A black person. Jiggaboo or jigabo is from a Bantu verb tshikabo
+jigarooni;jigaboo;A black person. Jiggaboo or jigabo is from a Bantu verb tshikabo
+jigg;jigaboo;A black person. Jiggaboo or jigabo is from a Bantu verb tshikabo
+jigga;jigaboo;A black person. Jiggaboo or jigabo is from a Bantu verb tshikabo
+jiggabo;jigaboo;A black person. Jiggaboo or jigabo is from a Bantu verb tshikabo
+jiggaboo;jigaboo;A black person. Jiggaboo or jigabo is from a Bantu verb tshikabo
+jigger;jigaboo;A black person. Jiggaboo or jigabo is from a Bantu verb tshikabo
+Jihadi;;A Muslim.;eng;1;0;1;0;0;0;0;0
+jijjiboo;jigaboo;A black person. Jiggaboo or jigabo is from a Bantu verb tshikabo
+Jim Fish;;A black person.;eng;1;0;0;0;0;0;0;0
+jincho;;A Caucasian;spa;1;0;0;0;0;0;0;0
+Jincho papujo;jincho;A Caucasian;spa;1;0;0;0;0;0;0;0
+jock;;A Scottish person. Scots language nickname for the personal name John
+jockie;jock;A Scottish person. Scots language nickname for the personal name John
+jocky;jock;A Scottish person. Scots language nickname for the personal name John
+jokuoye;;Luo slur for a member of the Kikuyu community
+judas;;Jew; derogatory by association with Judas Iscariot; used in Mexico
+Judensau;;German slur for Jewish sow or Jewish pig;deu;1;0;0;0;0;0;0;1
+Judenschwein;Judensau;German slur for Jewish sow or Jewish pig;deu;1;0;0;0;0;0;0;1
+jungle bunny;;A black person.;eng;1;0;0;0;0;0;0;0
+Junior Mint;;A black person with Caucasian mannerisms
+kaaskop;;A Dutch person. Translates as 'cheese-head'.;nld;0;1;0;0;0;0;0;0
+kabisi;;Embu slur for a member of the Luo ethnic group
+kabloonuk;;Inuit word for any non-Inuit. Literal translation means person with bushy eyebrows.;ale;1;0;0;0;0;0;0;0
+kaeriya;;Derogatory word for a man of a different ethnicity;tam;1;0;0;0;1;0;0;0
+kaffer;kaffir;[1] A black person (South Africa) [2] A non-Muslim of any ethnicity. Derived from Arabic Kafir - disbeliever or infidel.;ara;1;1;1;0;0;0;0;0
+kaffir;;[1] A black person (South Africa) [2] A non-Muslim of any ethnicity. Derived from Arabic Kafir - disbeliever or infidel.;ara;1;1;1;0;0;0;0;0
+kaffre;kaffir;[1] A black person (South Africa) [2] A non-Muslim of any ethnicity. Derived from Arabic Kafir - disbeliever or infidel.;ara;1;1;1;0;0;0;0;0
+kafir;kaffir;[1] A black person (South Africa) [2] A non-Muslim of any ethnicity. Derived from Arabic Kafir - disbeliever or infidel.;ara;1;1;1;0;0;0;0;0
+kafiri;;[1] Uncircumcised. [2] Pagan.;swa;1;0;1;0;0;0;0;0
+kala;;Any person of South
+kalar;kala;Any person of South
+kalla;;A person with dark skin. Can refer to a person with African origin. This terms is also used by Sri Lankan diaspora living in USA to refer to an African American.;sin;1;0;0;0;0;0;0;0
+kallathoni;;An illegal immigrant or non-citizen
+kallathonni;;Illegal boat person (Indian);tam;1;1;0;0;0;0;1;0
+kalmuk;;A person from the asian part of the former Soviet Union;pol;1;0;0;0;0;0;1;1
+kalmuki;kalmuk;A person from the asian part of the former Soviet Union;pol;1;0;0;0;0;0;1;1
+kamelenneuker;;Arab
+Kanacke;;Derogative word for immigrants
+Kanaker;Kanacke;Derogative word for immigrants
+kansarme;;Immigrants
+karaiyar;;Fish killing caste person (derogatory);tam;0;0;0;0;0;0;1;0
+katol;;catholic;pol;0;0;1;0;0;0;0;0
+Katzenfresser;;German slur for an Italian person
+keling;;A person originating from the Indian subcontinent
+khazar;;A Jewish person
+kihii;;Kikuyu slur for a member of the Luo ethnic group
+kiingereza;;An English person.;swa;1;0;0;0;0;0;0;0
+kijuju;;Derogatory word for Rwandans
+kike;;An Ashkenazi Jew. From kikel
+Kinderficker;;a male pedophile;deu;0;0;0;0;1;0;0;0
+Kizungu;mzungu;Literally means foreigner but predominantly used in Swahili-speaking countries (particularly Kenya and Tanzania) to refer to white people. Very common since white people are still a curiosity in many parts of these countries and usually not intended to be offensive but sometimes used in a pejorative manner. Similar usage to faranji in Amharic.;swa;1;0;0;0;0;0;0;0
+Klandestin;;Derogatory term for illegal imigrant;mlt;1;1;0;0;0;0;1;0
+knacker;;An Irish Traveller.;eng;1;1;0;0;0;0;0;0
+kochchiya;;A person of Indian descent.;sin;0;1;0;0;0;0;0;0
+kokujin;;Japanese term for a black person.;jpn;1;0;0;0;0;0;0;0
+komunjara;;[1] Communist
+kopvoddrager;;Moslima with headscarf
+kotiya;tiger;A Tamil.;eng;1;0;0;0;0;0;0;0
+kraut;;A German
+Krueppel;;cripple;deu;0;0;0;0;0;1;0;0
+kuffar;kaffir;[1] A black person (South Africa) [2] A non-Muslim of any ethnicity. Derived from Arabic Kafir - disbeliever or infidel.;ara;1;1;1;0;0;0;0;0
+kurombo;;Japanese term for a black male
+kurwa;;[1] prostitute [2] whore; slut; bitch.;pol;0;0;0;1;0;0;0;0
+Kushi;Cushite;[1] A person of east African descent
+Kushite;Cushite;[1] A person of east African descent
+kut-marokkaan;;Moroccan
+kutmarokkaan;kut-marokkaan;Moroccan
+kwai lo;gweilo;Pejorative term used in south of Mainland China and Hong Kong to denote a white man. Loosely translated as 'foreign devil;' more literally
+kwerekwere;;A foreigner
+kweri kweri;kwerekwere;A foreigner
+kwiri kwiri;kwerekwere;A foreigner
+kyke;kike;An Ashkenazi Jew. From kikel
+labu;;A Latvian person
+lagartona;;prostitute;spa;0;0;0;1;0;0;0;0
+laikci;;Insulting word for secular people in Turkey.;tur;0;1;1;0;0;0;1;0
+lamemurata;;Samburu slur for a member of the Luo ethnic group
+Landya;;A Muslim.;;0;0;1;0;0;0;0;0
+langsiya;lansiya;Used by the Sinhala majority to refer to a Burgher person of Dutch origin
+lansiya;;Used by the Sinhala majority to refer to a Burgher person of Dutch origin
+laowai;;Foreigner;cmn;1;1;0;0;0;0;0;0
+Latin;;Derogatory term for Croatian of Catholic christian faith;bos;1;1;1;0;0;0;0;1
+latrino;;A person of Latino descent
+lawn jockey;;A black person
+Leb;;A person of Lebanese descent.;eng;0;1;0;0;0;0;0;0
+Lebbo;Leb;A person of Lebanese descent.;eng;0;1;0;0;0;0;0;0
+lefty;;An Arab
+lemonhead;;An Asian person.;eng;1;0;0;0;0;0;0;0
+leprechaun;;A person of Irish descent.;eng;0;1;0;0;0;0;0;0
+lesbo;;Lesbian;nld;0;0;0;0;1;0;0;0
+levis;;lesbian;spa;0;0;0;0;1;0;0;0
+limey;;A British person. Comes from the historical British naval practice of giving sailors limes to stave off scurvy.;eng;0;1;0;0;0;0;0;0
+ling ling;;Broad derogatory term for someone of Asian appearance/descent.;eng;1;0;0;0;0;0;0;0
+lofan;;In China
+longuu;;Samburu slur for members of the Turkana ethnic community
+longuulkitkit;;Maasai slur for members of the Kamba ethnic community
+lowlander;;A person in the Netherlands
+lubra;;An Australian Aboriginal woman.;eng;0;0;0;0;0;0;0;0
+lugan;;A Lithuanian
+Lugenpresse;;View of radically right wings about a from the government regulated press.;deu;0;0;0;0;0;0;0;0
+lungereza;;An English person.;lug;1;0;0;0;0;0;0;0
+macaca;;Originally used by francophone colonialists in Central Africa's Belgian Congo to refer to the native population; use has expanded to other groups
+Macaco;;Usada para se referir a pessoas afro-descendentes;por;1;0;0;0;0;0;0;0
+macaroni;;A person of Italian descent.;ita;0;1;0;0;0;0;0;0
+Macedonist;;A derogatory term used by Bulgarians to identify Macedonians;bul;0;1;0;0;0;0;0;0
+macengi;;Akamba slur for members of the Mbeere ethnic community
+mack;mick;[1] An Irish person or a person of Irish descent. Mick is considered more offensive in the UK and US. From the prefix 'Mc'/'Mac' meaning 'son of' that is commonly found in Irish surnames. [2] In Australia
+mackerel snapper ;;A Roman Catholic. The term originated in the U.S. in the 1850s and refers to the custom of Friday abstinence.;eng;0;0;1;0;0;0;0;0
+maekka;;Person of Mexican or Hispanic descent. This term is used by Sri Lankan diaspora living in USA.;sin;1;1;0;0;0;0;0;0
+maessa;maekka;Person of Mexican or Hispanic descent. This term is used by Sri Lankan diaspora living in USA.;sin;1;1;0;0;0;0;0;0
+Makaronifresser;;German term for a person of Italian descent
+malaun;;Hindu
+maldito Bori;;Spanish for 'goddamned Puerto Ricans';spa;1;1;0;0;0;0;0;0
+malingsia;;[1] A slang term used in Indonesia to refer to Malaysian people. Literally means thief.;jav;1;1;0;0;0;0;0;0
+mameluco;mestico;[1] In Brazil
+mandilon;;An emasculated male
+mangia cake;;A derogatory term used by Italians to disdainfully describe those of Anglo-Saxon descent (from Italian
+mangiacrauti;;A person of German descent
+mangiapatate;;A person of German descent
+mansplaining;;The idea that men
+maricon;;Homosexual;spa;0;0;0;0;1;0;0;0
+marrano;;A Jewish convert to Christianity
+marron;;[1] In Latin America
+mattaya;;Used by the Sinhala/Tamil majority to refer to a person of Muslim origin hailing from East of the island (Ampara
+mayate;;Latino word for a black person.;spa;1;0;0;0;0;0;0;0
+medelander;;Immigrant
+meiguo guizi;guizi;Pejorative term used in Mainland China and Taiwan to denote foreigners
+melanzana;;Italian word for a black person
+melon;;French-born offspring of North African parents;fra;1;1;0;0;0;0;0;0
+Merkin;;Similar to 'American.';eng;0;1;0;0;0;0;0;0
+mestico;;[1] In Brazil
+mestizo;;Born of a Spanish parent and a Native American parent
+mezza fanook;fanook;Italian term for one who is homosexual
+mick;;[1] An Irish person or a person of Irish descent. Mick is considered more offensive in the UK and US. From the prefix 'Mc'/'Mac' meaning 'son of' that is commonly found in Irish surnames. [2] In Australia
+mickey;mick;[1] An Irish person or a person of Irish descent. Mick is considered more offensive in the UK and US. From the prefix 'Mc'/'Mac' meaning 'son of' that is commonly found in Irish surnames. [2] In Australia
+Mickey Finn;mick;[1] An Irish person or a person of Irish descent. Mick is considered more offensive in the UK and US. From the prefix 'Mc'/'Mac' meaning 'son of' that is commonly found in Irish surnames. [2] In Australia
+mil bag;spide;In Northern Ireland
+millie;spide;In Northern Ireland
+minusvalido;;Disabled;spa;0;0;0;0;0;1;0;0
+Missgeburt;;[1] someone with congenital disorder [2] an ugly person;deu;0;0;0;0;0;1;0;0
+mithangel;;A person who participates in anal intercourse.;heb;0;0;0;0;1;0;0;0
+moch;mocky;A Jewish person (first used in the 1930s).;eng;1;0;0;0;0;0;0;0
+mocho;;a person without an arm or a leg;spa;0;0;0;0;0;1;0;0
+mock;mocky;A Jewish person (first used in the 1930s).;eng;1;0;0;0;0;0;0;0
+mockey;mocky;A Jewish person (first used in the 1930s).;eng;1;0;0;0;0;0;0;0
+mockie;mocky;A Jewish person (first used in the 1930s).;eng;1;0;0;0;0;0;0;0
+mocky;;A Jewish person (first used in the 1930s).;eng;1;0;0;0;0;0;0;0
+mocro;;Moroccan;nld;1;0;0;0;0;0;0;0
+modaya;;An idiot;tam;0;0;0;0;0;0;0;0
+moelander;;Immigrant
+mof;;In Dutch the most common term for the German people
+moffen;mof;In Dutch the most common term for the German people
+mogolico;mongolo;Derogatory term for a mentally disabled person;spa;0;0;0;0;0;1;0;0
+moher;;older person who support the views expressed by Polish conservative Catholic movement with its main representative being the media strictly connected with Father Tadeusz Rydzyk. This expression originated from the characteristic headgear worn by the stereotyped representatives of this circle.;pol;0;0;1;0;0;0;1;0
+mojado;;Used by Mexicans to refer to other Mexicans
+mojo;mojado;Used by Mexicans to refer to other Mexicans
+moke;;[1] In Hawaii
+moky;mocky;A Jewish person (first used in the 1930s).;eng;1;0;0;0;0;0;0;0
+mollo;;A word used in Mexico to denote a person of dark brown or black hair and of browner skin tones and/or Amerindian or Afro-Mexican origin;spa;1;0;0;0;0;0;0;0
+mong;;A disabled person
+mongol;;Disabled;spa;0;0;0;0;0;1;0;0
+mongolo;;Derogatory term for a mentally disabled person;spa;0;0;0;0;0;1;0;0
+monkey;;A black person.;eng;1;0;0;0;0;0;0;0
+monser;;Derogatory word for members of Turkish modern society. Mostly used to insult well educated and elegant people.;tur;0;1;1;0;0;0;1;0
+mook;;Generic term for a loser or ineffectual person
+mooley;moolie;Italian word for a black person
+mooliachi;moolie;Italian word for a black person
+moolie;;Italian word for a black person
+moon cricket;;A black person;eng;1;0;0;0;0;0;0;0
+Moor;;A black person
+moreno;;A word used in Mexico to denote a person of dark brown or black hair and of browner skin tones and/or Amerindian or Afro-Mexican origin;spa;1;0;0;0;0;0;0;0
+moro;;An Arab;spa;1;0;1;0;0;0;0;0
+moss eater;;Pacific Northwest term for poor or disenfrancised white people.;eng;1;0;0;0;0;0;0;0
+mosshead;;A black person.;eng;1;0;0;0;0;0;0;0
+moulie;;A black person
+moulignon;moulie;A black person
+moulinyan;moulie;A black person
+moxy;mocky;A Jewish person (first used in the 1930s).;eng;1;0;0;0;0;0;0;0
+mud duck;mud person;White supremacist term for a black person.;eng;1;0;0;0;0;0;0;0
+mud person;;White supremacist term for a black person.;eng;1;0;0;0;0;0;0;0
+mud shark;;A Caucasian woman who dates a black man.;eng;1;0;0;0;0;0;0;0
+mudugudugu;;Originally used by southern ethnic Ugandans (Baganda
+muk;;[1] An Alaskan. [2] An Inuit.;eng;1;0;0;0;0;0;0;0
+muktuk;muk;[1] An Alaskan. [2] An Inuit.;eng;1;0;0;0;0;0;0;0
+mulato;;Born of a Caucasian parent and a black parent.;eng;1;0;0;0;0;0;0;0
+mulignan;moulie;A black person
+mung;;Pronunciation of 'hmong'
+munt;munter;Among whites in South Africa
+munter;;Among whites in South Africa
+murungu;;An English person.;sna;0;0;0;0;0;0;0;0
+mustalainen;;Derived from the Finnish word for 'Black'
+mustalaiset;mustalainen;Derived from the Finnish word for 'Black'
+musungu;;An English person.;bem;1;0;0;0;0;0;0;0
+mutt;;A person of mixed heritage.;eng;1;0;0;0;0;0;0;0
+muttal;modaya;An idiot;tam;0;0;0;0;0;0;0;0
+muzungu;;An English person.;lug;0;0;0;0;0;0;0;0
+muzzie;;A Muslim.;eng;0;0;1;0;0;0;0;0
+mwiji;;Embu slur for a member of the Luo ethnic group
+mzungu;;Literally means foreigner but predominantly used in Swahili-speaking countries (particularly Kenya and Tanzania) to refer to white people. Very common since white people are still a curiosity in many parts of these countries and usually not intended to be offensive but sometimes used in a pejorative manner. Similar usage to faranji in Amharic.;swa;1;0;0;0;0;0;0;0
+naca;naco;A pejorative word often used in Mexican Spanish to describe the bad-mannered and poorly educated people
+nacho;;A person of Hispanic descent.;eng;1;0;0;0;0;0;0;0
+naco;;A pejorative word often used in Mexican Spanish to describe the bad-mannered and poorly educated people
+Natsi;;A person of German descent
+Natzisty;;A person of German descent.;rus;0;1;0;0;0;0;0;0
+Nazi;;[1] Contraction of the full name for national socialism [2] A German;deu;1;1;0;0;0;0;0;1
+neche;nitchie;A North American Indian (from the Algonquian word for 'friend').;eng;1;0;0;0;0;0;0;0
+ned;;In Scotland
+neechee;nitchie;A North American Indian (from the Algonquian word for 'friend').;eng;1;0;0;0;0;0;0;0
+neejee;nitchie;A North American Indian (from the Algonquian word for 'friend').;eng;1;0;0;0;0;0;0;0
+Neger;;a black person;deu;1;0;0;0;0;0;0;0
+negro;;A black person.;eng;1;0;0;0;0;0;0;0
+negro de mierda;;A black person.;spa;1;0;0;0;0;0;0;0
+Nemcurji;Nemskutarji;A term reserved for the Germans that have Slovene ancestry and have been Germanized
+Nemskutarji;;A term reserved for the Germans that have Slovene ancestry and have been Germanized
+neres;;In Bangladesh and West Bengal
+net head;;Chicano slur for Mexicans used in Los Angeles
+newfie;;A person from Newfoundland
+ngetik;;Kalenjin slur for a member of the Luo ethnic group
+nguoi tau;;Boat person
+nicca;nigger;A black person.;eng;1;0;0;0;0;0;0;0
+nichi;nitchie;A North American Indian (from the Algonquian word for 'friend').;eng;1;0;0;0;0;0;0;0
+nichiwa;nitchie;A North American Indian (from the Algonquian word for 'friend').;eng;1;0;0;0;0;0;0;0
+nidge;nitchie;A North American Indian (from the Algonquian word for 'friend').;eng;1;0;0;0;0;0;0;0
+niemra;niemry;A German woman
+niemry;;A German woman
+nig;nigger;A black person.;eng;1;0;0;0;0;0;0;0
+nig nog;nigger;A black person.;eng;1;0;0;0;0;0;0;0
+nigar;nigger;A black person.;eng;1;0;0;0;0;0;0;0
+niger;nigger;A black person.;eng;1;0;0;0;0;0;0;0
+nigette;nigger;A black person.;eng;1;0;0;0;0;0;0;0
+nigga;nigger;A black person.;eng;1;0;0;0;0;0;0;0
+niggah;nigger;A black person.;eng;1;0;0;0;0;0;0;0
+niggar;nigger;A black person.;eng;1;0;0;0;0;0;0;0
+nigger;;A black person.;eng;1;0;0;0;0;0;0;0
+nigglet;niglet;A black child.;eng;1;0;0;0;0;0;0;0
+niggor;nigger;A black person.;eng;1;0;0;0;0;0;0;0
+niggress;nigger;A black person.;eng;1;0;0;0;0;0;0;0
+nigguh;nigger;A black person.;eng;1;0;0;0;0;0;0;0
+niggur;nigger;A black person.;eng;1;0;0;0;0;0;0;0
+niglet;;A black child.;eng;1;0;0;0;0;0;0;0
+nigor;nigger;A black person.;eng;1;0;0;0;0;0;0;0
+nigra;nigger;A black person.;eng;1;0;0;0;0;0;0;0
+nigre;nigger;A black person.;eng;1;0;0;0;0;0;0;0
+niknok;;Dutch pejorative for a black person.;nld;1;0;0;0;0;0;0;0
+niksmann;;From German language negative word nichts/nix (nothing) and -manni for 'man'. Rarely used.;fin;0;1;0;0;0;0;0;1
+nip;;A person of Japanese descent (shortened version of Nipponese
+nitchee;nitchie;A North American Indian (from the Algonquian word for 'friend').;eng;1;0;0;0;0;0;0;0
+nitchie;;A North American Indian (from the Algonquian word for 'friend').;eng;1;0;0;0;0;0;0;0
+nitchy;nitchie;A North American Indian (from the Algonquian word for 'friend').;eng;1;0;0;0;0;0;0;0
+Northern monkey;;Used in the south of England
+ocker;;An uncultivated Australian.;eng;0;1;0;0;0;0;0;0
+octaroon;octroon;A person who is 1/8th Black. Originated by the Spanish in the 14th/15th century as they were very exact in their racial classifications to determine a person's worth in society.;eng;1;0;0;0;0;0;0;0
+octroon;;A person who is 1/8th Black. Originated by the Spanish in the 14th/15th century as they were very exact in their racial classifications to determine a person's worth in society.;eng;1;0;0;0;0;0;0;0
+ofay;;A white person
+ola;;Swedish slur for a Norwegian;swe;0;1;0;0;0;0;0;0
+Orangie;;A pro-British Ulster Protestant
+Oreo;;A person who is black on the outside and white on the inside
+Oriental;;An Asian person;eng;1;0;0;0;0;0;0;0
+osuuji;;Maasai slur for a member of the Kikuyu community
+otuwa;;Person of Arabic descent. Specially the males wearing Thawb and Agal. This term is used by Sri Lankan diaspora living in Middle East region.;sin;1;0;0;0;0;0;0;0
+oven dodger;;A Jew
+paddy;;A person of Irish descent
+pakeha;;Maori term for white New Zealanders
+paki;;A person from South Asia or the Middle East
+pakka;;A male of Pakistani origin
+paleface;;Historical Native American term for Caucasian.;eng;1;0;0;0;0;0;0;1
+palla;;Cooly (slave);tam;1;0;0;0;0;0;1;0
+pancake;;An Asian person.;eng;1;0;0;0;0;0;0;0
+pancake face;pancake;An Asian person.;eng;1;0;0;0;0;0;0;0
+papist;;A Roman Catholic person
+papoose;;A Native American child.;eng;1;0;0;0;0;0;0;0
+paraiyar;;Scavenger;tam;1;0;0;0;0;0;1;0
+parangi;;A derogatory term for a Portuguese or Catholic person;tam;1;1;1;0;0;0;0;0
+pato;;Negative term used to describe an homosexual man or a seemingly gay man.;spa;0;0;0;0;1;0;0;0
+patriarchy;;[1] The overwhelming monopoly of power exerted by men.[2] An umbrella epiphet attempting to dismiss natural differences occurring from sexual dimorphism as a male conspiracy
+payoponi;;A person from Latin America;spa;1;1;0;0;0;0;0;0
+peckerwood;;Used by southern African-Americans and upper class whites to denote poor rural whites. It is still used mostly by African-Americans in reference to white people.;eng;1;0;0;0;0;0;0;0
+pedal;;faggot (homosexual);pol;0;0;0;0;1;0;0;0
+peela;;A person of Asian descent;urd;1;0;0;0;0;0;0;0
+pendatang;;[1] To refer to Malaysian citizens who are not of Malay or native origin in Malaysian political context;msa;1;0;0;1;0;0;1;0
+Penner;;A homeless person;deu;0;0;0;0;0;0;1;0
+pepik;;a person of Chech nationality
+Pepper;;A French Canadian or Quebecois
+Pepsi;Pepper;A French Canadian or Quebecois
+perra;;[1] A promiscuous woman. [2] An unattractive woman.;spa;0;0;0;1;0;0;0;0
+perroflauta;;left wing person;spa;0;0;0;0;0;0;1;0
+pickaninny;;Black children.;eng;1;0;0;0;0;0;0;0
+Piefke;;Refers to the cliché of a pompous (Protestant northern) German in general and a Berliner in particular;deu;0;1;1;0;0;0;0;1
+Piffke;Piefke;Refers to the cliché of a pompous (Protestant northern) German in general and a Berliner in particular;deu;0;1;1;0;0;0;0;1
+pig;;Police Officer;eng;0;0;0;0;0;0;1;0
+piker;pikey;Derived from 'turnpike'. [1] An Irish person. [2] A gypsy. [3] An itinerant or vagrant lower-class or poor person.;eng;1;1;0;0;0;0;0;0
+pikey;;Derived from 'turnpike'. [1] An Irish person. [2] A gypsy. [3] An itinerant or vagrant lower-class or poor person.;eng;1;1;0;0;0;0;0;0
+piky;pikey;Derived from 'turnpike'. [1] An Irish person. [2] A gypsy. [3] An itinerant or vagrant lower-class or poor person.;eng;1;1;0;0;0;0;0;0
+pinche negro;;A black person.;spa;1;0;0;0;0;0;0;0
+pindos;;Originally used by Russian troops as a disparaging term for an American soldier during Kosovo War. Currently is applied to any American.;rus;0;1;0;0;0;0;0;0
+pineapple nigger;;A person of Hawaiian descent.;eng;1;0;0;0;0;0;0;0
+ping pang;;A person of Asian descent.;eng;1;0;0;0;0;0;0;0
+pinto;;One who has both a Caucasian parent and a Native American parent.;eng;1;0;0;0;0;0;0;0
+plastic paddy;;A non-Irish person who claims to be Irish.;eng;1;1;0;0;0;0;0;0
+pocha;pocho;A person of Mexican heritage who is partially or fully assimilated into American culture (literally
+pocho;;A person of Mexican heritage who is partially or fully assimilated into American culture (literally
+poebe;poep;A person of German descent. In Frisian (minority) language and Gronings dialect the word poep or poebe is used
+poep;;A person of German descent. In Frisian (minority) language and Gronings dialect the word poep or poebe is used
+pogue;;A person of Irish descent.;eng;1;1;0;0;0;0;0;0
+pohm;pom;A British (usually English) immigrant. Some claim it derives from 'Prisoner of Mother England' or 'Prisoner of Her Majesty'
+pointy head;;A person of Asian descent.;eng;1;0;0;0;0;0;0;0
+polack;;A Pole or a person of Polish or Slavic origin
+polacos;;Palabra despectiva utilizada en España para definir a los catalanes. / Derogatory word used in Spain to define the Catalans.;spa;1;1;0;0;0;0;0;0
+Polake;;a person from Poland;deu;0;1;0;0;0;0;0;0
+pollo;;[1] A person of Hispanic descent
+pom;;A British (usually English) immigrant. Some claim it derives from 'Prisoner of Mother England' or 'Prisoner of Her Majesty'
+pommie;pom;A British (usually English) immigrant. Some claim it derives from 'Prisoner of Mother England' or 'Prisoner of Her Majesty'
+pommie grant;pom;A British (usually English) immigrant. Some claim it derives from 'Prisoner of Mother England' or 'Prisoner of Her Majesty'
+pommy;pom;A British (usually English) immigrant. Some claim it derives from 'Prisoner of Mother England' or 'Prisoner of Her Majesty'
+popolo;;Used in Hawaii to denote a black person.;eng;1;0;0;0;0;0;0;0
+poppadom;;Used as a derogatory term directed towards South Asians (and sometimes Middle Eastern people).;eng;1;0;0;0;0;0;0;0
+porch monkey;;A black person referring to perceived common behavior of groups hanging out on front porches or steps of urban apartment complexes in US cities.;eng;1;0;0;0;0;0;0;0
+pot;;Lesbian;nld;0;0;0;0;1;0;0;0
+powderburn;;A black person.;eng;1;0;0;0;0;0;0;0
+prairie nigger;;A Native American.;eng;1;0;0;0;0;0;0;0
+Preiss;;A peson of German descent. Derived from the local name for Prussian. Used to describe any German since the establishment of a Prussian Garrison in Fortress Luxembourg in 1815. Still commonly used today but most popular with World War II survivors.;ltz;0;1;0;0;0;0;0;1
+prieto;indio;A word used in Mexico to denote a person of dark brown or black hair and of browner skin tones and/or Amerindian or Afro-Mexican origin;spa;1;0;0;0;0;0;0;0
+prod;;A Protestant
+proddy dog;prod;A Protestant
+proddywhoddy;prod;A Protestant
+proddywoddy;prod;A Protestant
+property;;A black person.;eng;1;0;0;0;0;0;0;0
+Prusak;;Derived from Prussian
+Prusatsi;Prusak;Derived from Prussian
+Pseudomacedonian;Bulgaroskopian;Used by Greeks when referring to the Macedonians in an attempt to deny self-identification;ell;0;1;0;0;0;0;0;0
+Punjab;;A person of Indian descent.;eng;1;1;0;0;0;0;0;0
+pussy;;[1] Pejorative word for female. [2] Pejorative word for male
+puta;;Bitch;spa;0;0;0;1;0;0;0;0
+putain;pute;[1] A prostitute. [2] A woman of loose morals. [3] A despicable person or thing (as in the phrase pute de...);fra;0;0;0;1;0;0;0;0
+pute;;[1] A prostitute. [2] A woman of loose morals. [3] A despicable person or thing (as in the phrase pute de...);fra;0;0;0;1;0;0;0;0
+puto;;[1] A male homosexual. [2] A male prostitute. [3] A womanizer.;spa;0;0;0;1;1;0;0;0
+quadroon;;A person who is 1/4 Black. Coined during the Civil War
+quashie;;A black person. From the West African name Kwazi
+queen;;A homosexual.;eng;0;0;0;0;1;0;0;0
+queer;;A homosexual.;eng;0;0;0;0;1;0;0;0
+race traitor;;Term used by white supremacists to denote a person of mixed race.;eng;1;0;0;0;0;0;0;0
+raghead;;An Arab
+razakars;;Pejorative term in Bangladesh denoting brutality or treason
+red bone;yellow bone;[1] A black female with light skin. [2] A black female of mixed heritage.;eng;1;0;0;0;0;0;0;0
+redlegs;;Laborer-class whites in Barbados.;eng;1;0;0;0;0;0;0;0
+redneck;;Southern laborer-class whites.;eng;0;0;0;0;0;0;1;0
+redskin;;A Native American.;eng;1;0;0;0;0;0;0;0
+retard;;A disabled person
+retarded;retard;A disabled person
+retrasado mental;;Disabled;spa;0;0;0;0;0;1;0;0
+Rhine monkey;;A person of German descent.;eng;0;1;0;0;0;0;0;0
+riben guizi;guizi;Pejorative term used in Mainland China and Taiwan to denote foreigners
+ricepicker;;Meant to denigrate East Asians;;1;1;0;0;0;0;0;0
+Rico Suave;;A person of Hispanic descent
+rifaap;;Moroccan
+rifaapje;rifaap;Moroccan
+rital;;An person of Italian descent;fra;0;1;0;0;0;0;0;0
+roofucker;;Literally
+rooinek;;South African slang for an Anglo-African.;afr;1;0;0;0;0;0;0;0
+rosbif;;French pejorative for British tourists
+rosuke;;A Russian.;jpn;0;1;0;0;0;0;0;0
+roundeye;;A white or non-Asian person.;eng;1;0;0;0;0;0;0;0
+rube;;A rural person.;eng;0;0;0;0;0;0;1;0
+rubwa;;Kikuyu slur for members of the Kalenjin ethnic community
+ruco;;old person;spa;0;0;0;0;0;0;0;0
+Russellite ;;A Jehovah's Witness
+rutuku;;A European
+Sack;;[1] bag [2] scrotum [3] male person;deu;0;0;0;1;0;0;0;0
+saeedi;sayeedi;Used by Cairenes to refer to inhabitants of Upper Egypt.;ara;0;1;0;0;0;0;0;0
+sakkiliya;;A Tamil. Can refer to a very unhygienic or uncultured person
+sakkiliyar;;Lowest caste person;tam;1;0;0;0;0;0;1;0
+saks;;Similar to the word sakslane ('German')
+salope;;A corrupt
+sambo;;A black person.;eng;1;0;0;0;0;0;0;0
+sand nigger;;Derogatory term for a person from the Middle East
+Sapatao;;Homossexual do sexo feminino;;0;0;0;0;1;0;0;0
+sart;;This is  abusive cliché is addressed to settled population
+sauschwob;;Swiss German for 'Pig-Swabian'.;gsw;0;1;0;0;0;0;0;0
+SAWCSM;;Straight
+sawney;;A Scottish person
+sayeedi;;Used by Cairenes to refer to inhabitants of Upper Egypt.;ara;0;1;0;0;0;0;0;0
+sayoku;;Leftist;jpn;0;0;0;0;0;0;0;0
+scag;;A woman of loose morals;eng;0;0;0;1;0;0;1;0
+scallie;;A disreputable and/or working class person
+scally;scallie;A disreputable and/or working class person
+scanger;spide;In Northern Ireland
+scheiss Ami;;German pejorative for an American.;deu;0;1;0;0;0;0;0;0
+schiptar;;A person of Albanian origin.;;1;1;0;0;0;0;0;0
+Schlampe;;[1] a negligent female [2] a promiscuous female;deu;0;0;0;1;0;0;0;0
+Schlitzauge;;[1] slit eye [2] someone from east Asia;deu;1;0;0;0;0;0;0;0
+schvartse;;Literally 'black'
+Schwanzlutscher;;A male person performing fellatio;deu;0;0;0;0;1;0;0;0
+schwartze;schvartse;Literally 'black'
+schwarze;schvartse;Literally 'black'
+schwarzer;schvartse;Literally 'black'
+Schwuchtel;;A biologically male bisexual
+scobe;;In Ireland
+scuffer;;In the UK
+semihole;;A Native American
+senga;;In Scotland
+seppo;;An American. (Cockney rhyming slang: Septic tank - Yank);eng;0;1;0;0;0;0;0;0
+septic;seppo;An American. (Cockney rhyming slang: Septic tank - Yank);eng;0;1;0;0;0;0;0;0
+sesat;;heretic;;0;0;1;0;0;0;0;0
+shade;;A black person
+shagitz;shiksa;A non-Jewish woman. Derived from the Hebrew root Shin-Qof-Tzadei
+shahktor;;A black person
+shahktyer;;шахтер - Russian word used to describe black people. It literally means miner as if their skin was black from coal mining.;rus;1;0;0;0;0;0;0;0
+shant;;A disenfranchised Irish peson
+shanty Irish;;A poor or disenfranchised person of Irish descent.;eng;1;1;0;0;0;0;0;0
+sheeny;;A 19th-century derogatory term for an 'untrustworthy Jew.';eng;1;0;0;0;0;0;0;1
+sheepfucker;;A person of Scottish or Welsh descent
+sheigetz;;A non-Jewish man
+sheister;shyster;A dishonest person
+Shelta;;An Irish Traveller.;eng;1;1;0;0;0;0;0;0
+shemale;;[1] A transexual person. [2] A transgendered person. [3] An allegedly masculine woman.;;0;0;0;1;1;0;0;0
+shiksa;;A non-Jewish woman. Derived from the Hebrew root Shin-Qof-Tzadei
+shine;;A black person
+shiner;shine;A black person
+shit heel;;A black servant.;eng;1;0;0;0;0;0;0;0
+shit kicker;;A rural person
+shkutzim;sheigetz;A non-Jewish man
+shvartz;;A black person.;yid;1;0;0;0;0;0;0;0
+Shy;Shylock;A Jewish person
+Shylock;;A Jewish person
+shyster;;A dishonest person
+sideways cooter;sideways vagina;An Asian woman
+sideways pussy;sideways vagina;An Asian woman
+sideways vagina;;An Asian woman
+skag;scag;A woman of loose morals;eng;0;0;0;1;0;0;1;0
+skanger;spide;In Northern Ireland
+skin;skinhead;a right wing extremist with shaved head;eng;0;0;0;0;0;0;0;0
+skinhead;;a right wing extremist with shaved head;eng;0;0;0;0;0;0;0;0
+skinny;;A Somali
+Skip;;A white Australian
+Skippy;Skip;A white Australian
+Skopiana;Bulgaroskopian;Used by Greeks when referring to the Macedonians in an attempt to deny self-identification;ell;0;1;0;0;0;0;0;0
+Skopianika;Bulgaroskopian;Used by Greeks when referring to the Macedonians in an attempt to deny self-identification;ell;0;1;0;0;0;0;0;0
+Skopjan;Bulgaroskopian;Used by Greeks when referring to the Macedonians in an attempt to deny self-identification;ell;0;1;0;0;0;0;0;0
+Skopjian;Bulgaroskopian;Used by Greeks when referring to the Macedonians in an attempt to deny self-identification;ell;0;1;0;0;0;0;0;0
+slag;;In the UK
+slampa;;Similar to the english word slut. Used as a supressant term when a person (a woman) is sleeping with a lot of people. In other words; she is promiscuous.;swe;0;0;0;1;0;0;0;0
+slant;;A person of Asian origin (Chinese
+slant eye;slant;A person of Asian origin (Chinese
+slave;;An unpaid servant
+slit;;A person of Asian descent.;eng;1;0;0;0;0;0;0;0
+slope;;A person of Asian descent
+slopehead;slope;A person of Asian descent
+slopey;slope;A person of Asian descent
+slopy;slope;A person of Asian descent
+smick;;In Ireland
+smoke jumper;;A Caucasian woman who dates a black man.;eng;1;0;0;0;0;0;0;0
+smoked Irish;;A 19th century term for a black person (intended to insult both black people and Irish).;eng;1;1;0;0;0;0;0;1
+smoked Irishman;smoked Irish;A 19th century term for a black person (intended to insult both black people and Irish).;eng;1;1;0;0;0;0;0;1
+snout;;Offensive term used in Northern Ireland to describe Protestants of British descent living in Northern Ireland.;eng;0;1;1;0;0;0;0;0
+snowflake;;[1] Civil war term for an educated (white collar) black person. [2] A person of Jewish descent
+sokac;;[1] Derogative term for Croatian national of Catholic christian faith;bos;1;1;1;0;0;0;0;0
+sokomokabul;;Somali slur for a member of the Kikuyu community
+sole;;A person of Samoan descent.;eng;1;1;0;0;0;0;0;0
+sooty;;A black person
+soqi;;Samburu slur for members of the Pokot ethnic community
+soup taker ;;A person who has sold out their beliefs
+Southern fairy;;Used in the north of England
+spade;;A black person
+Spast;;spastic person;deu;0;0;0;0;0;1;0;0
+Spasti;Spast;spastic person;deu;0;0;0;0;0;1;0;0
+spear chucker;;A term used for an African American
+sperg;;Pejorative term for one who suffers from Asperger syndrome.;eng;0;0;0;0;0;1;0;0
+spic;;A person of Hispanic descent. First recorded use in 1915. Theories include from 'no spik English' (and spiggoty from the Chicano no speak-o t'e English)
+spice nigger;nigger;A black person.;eng;1;0;0;0;0;0;0;0
+spick;spic;A person of Hispanic descent. First recorded use in 1915. Theories include from 'no spik English' (and spiggoty from the Chicano no speak-o t'e English)
+spickaboo;;A person of mixed Hispanic and black parentage.;eng;1;0;0;0;0;0;0;0
+spide;;In Northern Ireland
+spig;spic;A person of Hispanic descent. First recorded use in 1915. Theories include from 'no spik English' (and spiggoty from the Chicano no speak-o t'e English)
+spigger;spickaboo;A person of mixed Hispanic and black parentage.;eng;1;0;0;0;0;0;0;0
+spigotty;spic;A person of Hispanic descent. First recorded use in 1915. Theories include from 'no spik English' (and spiggoty from the Chicano no speak-o t'e English)
+spik;spic;A person of Hispanic descent. First recorded use in 1915. Theories include from 'no spik English' (and spiggoty from the Chicano no speak-o t'e English)
+spike;;A very High Church Anglican or Anglo-Catholic.;eng;0;0;1;0;0;0;0;0
+spink;;A person of mixed Hispanic and Chinese parentage.;eng;1;1;0;0;0;0;0;0
+spiv;;In the UK
+spook;;A black person
+squarehead;;[1] A person of German
+squaw;;A female Native American. Derived from lower East Coast Algonquian (Massachuset: ussqua)
+squinty;;A person of East Asian descent in reference to the appearance of the eyes
+steek;spide;In Northern Ireland
+stovepipe;;A black person.;eng;1;0;0;0;0;0;0;0
+stump jumper;;Used by poor rural people to denote those of lower status than themselves
+sub human;;A black person.;eng;1;0;0;0;0;0;0;0
+sucker fish;;A term used ambiguously in southern Oregon directed towards the Klamath people during a dispute over the sucker fish of the Klamath River which was considered sacred by the tribe. Troublemakers displayed bumper-stickers with the message 'Save a Farmer
+sudaca;;Person from Hispanic Latin American origin;spa;1;1;0;0;0;0;0;0
+sudda;;Used by the Sinhala/Tamil majority to refer to a person of white caucasian or European origin. Generally refers all pale white-skinned people
+suntan;;A black person.;eng;1;0;0;0;0;0;0;0
+surrender monkey;cheese eating surrender monkey;A French person
+Svab;;A person of German descent.;slv;0;1;0;0;0;0;0;0
+Svaba;;A person of German descent.;mkd;0;1;0;0;0;0;0;0
+szkop;;Szkop (plural szkopy) is another
+szwab;;Szwab (plural szwaby; literally Swabian)
+tabeetsu;;Chinese slur for Caucasians
+Taffy;;A Welsh person. First used ca. 17th century. From the River Taff or the Welsh pronunciation of the name David (in Welsh
+Taig;;Used by loyalists in Northern Ireland for members of the nationalist/Catholic/Gaelic community. Derived the Irish name Tadhg
+tan;;A British person
+tapette;;Negative term used to describe an homosexual man or a seemingly gay man.;fra;0;0;0;0;1;0;0;0
+tapori;;In India
+tar baby;;A black child.;eng;1;0;0;0;0;0;0;0
+teabagger;;Pejorative reference to a conservative
+Teague;Taig;Used by loyalists in Northern Ireland for members of the nationalist/Catholic/Gaelic community. Derived the Irish name Tadhg
+teapot;;A black person. [19th century];eng;1;0;0;0;0;0;0;1
+Teg;Taig;Used by loyalists in Northern Ireland for members of the nationalist/Catholic/Gaelic community. Derived the Irish name Tadhg
+Teig;Taig;Used by loyalists in Northern Ireland for members of the nationalist/Catholic/Gaelic community. Derived the Irish name Tadhg
+tek millet;;one nation;tur;1;1;1;0;0;0;0;0
+tenker;tinker;[1] An inconsequential person (typically lower class). [2] A Gypsy. [3] In Scotland
+tete carree;;A person of English (particularly English-Canadian) origin. Refers to the stereotyped shape of their heads.;fra;1;1;0;0;0;0;0;0
+teuchtar;teuchter;A person from the north of Scotland or rural Scottish areas.;sco;1;1;0;0;0;0;0;0
+teuchter;;A person from the north of Scotland or rural Scottish areas.;sco;1;1;0;0;0;0;0;0
+thalaya;; Used by the Sinhala majority to refer to a person of Tamil origin from North (Jaffna). Refers to the excessive use of Thala Thel(or gingelly oil) by this community.;sin;1;0;0;0;0;0;0;0
+thambiya;;Used by the Sinhala majority to refer to a person of Muslim origin. The literal meaning of 'Thambi' is younger brother (in Tamil)
+thicklips;;A black person.;eng;1;0;0;0;0;0;0;0
+three fifth;;A black person
+three fifths;three fifth;A black person
+thurumba;;Unclean caste person;tam;0;0;1;0;0;0;1;0
+tiger;;A Tamil.;eng;1;0;0;0;0;0;0;0
+timber nigger;;A Native American.;eng;1;0;0;0;0;0;0;0
+tincker;tinker;[1] An inconsequential person (typically lower class). [2] A Gypsy. [3] In Scotland
+tinkar;tinker;[1] An inconsequential person (typically lower class). [2] A Gypsy. [3] In Scotland
+tinkard;tinker;[1] An inconsequential person (typically lower class). [2] A Gypsy. [3] In Scotland
+tinker;;[1] An inconsequential person (typically lower class). [2] A Gypsy. [3] In Scotland
+tinkere;tinker;[1] An inconsequential person (typically lower class). [2] A Gypsy. [3] In Scotland
+tizzone;;Italian term for a black person
+tizzoni;tizzone;Italian term for a black person
+Tommy;;German slang for a British person
+touch of the tar brush;;A person of predominantly Caucasian ancestry with real or suspected African or Asian distant ancestry.;eng;1;0;0;0;0;0;0;0
+towel head;raghead;An Arab
+trailer park trash;white trash;A Caucasian of low class or limited income.;eng;1;0;0;0;0;0;1;0
+trailer trash;white trash;A Caucasian of low class or limited income.;eng;1;0;0;0;0;0;1;0
+tranny;;Pejorative term which is shortened from either transgendered
+trash;white trash;A Caucasian of low class or limited income.;eng;1;0;0;0;0;0;1;0
+tree jumper;stump jumper;Used by poor rural people to denote those of lower status than themselves
+trucin;;[1] Derogative term for Bosniak of Islamic faith
+Tschusch;;A Serbian living in Austria or Germany.;deu;0;1;0;0;0;0;0;0
+tsekwa;chekwa;Filipino slur for a Chinese person;tgl;1;1;0;0;0;0;0;0
+tugo;;Somali slur for a member of the Kikuyu community
+tunnel digger;;A Vietnamese person
+Tunte;;effeminate male;deu;0;0;0;0;1;0;0;0
+twat;;An idiot or offensive person
+Twinkie;;[1] A European American
+tyncar;tinker;[1] An inconsequential person (typically lower class). [2] A Gypsy. [3] In Scotland
+tynekere;tinker;[1] An inconsequential person (typically lower class). [2] A Gypsy. [3] In Scotland
+tynkard;tinker;[1] An inconsequential person (typically lower class). [2] A Gypsy. [3] In Scotland
+tynkare;tinker;[1] An inconsequential person (typically lower class). [2] A Gypsy. [3] In Scotland
+tynker;tinker;[1] An inconsequential person (typically lower class). [2] A Gypsy. [3] In Scotland
+tynkere;tinker;[1] An inconsequential person (typically lower class). [2] A Gypsy. [3] In Scotland
+Ubangee;Ubangi;A black person
+Ubangi;;A black person
+umlungu;;An English person.;zul;0;0;0;0;0;0;0;0
+umuzungu;;An English person.;kin;1;0;0;0;0;0;0;0
+uncircumcised baboon;;A name to call the Luos ethnic group in Kenya;eng;1;0;0;0;0;0;0;0
+uncivilised;uncivilized;Savage
+uncivilized;;Savage
+Uncle Tom;;A black person perceived as behaving in a subservient manner to white authority figures.;eng;1;0;0;0;0;0;0;0
+Untermensch;;Sub-human
+Untermenschen;Untermensch;Sub-human
+uriti ja Mutigania wa wa Kunati;;Tharaka slur for people from Tigania
+ustasa;;[1] Member of Croatian fascist movement
+uzko glaziye;;A person of Asian ancestry
+varungu;murungu;An English person.;sna;0;0;0;0;0;0;0;0
+Velcro head;;A black person (referencing stereotypical hair type).;eng;1;0;0;0;0;0;0;0
+Viado;;Homossexual do sexo masculino;por;1;0;0;0;1;0;0;0
+vlah;;[1] Derogative term for Serbian national of orthodox christian faith
+wagon burner;;A Native American person.;eng;1;0;0;0;0;0;0;0
+WASP;;Acronym for White Anglo-Saxton Protestant
+wazungu;mzungu;Literally means foreigner but predominantly used in Swahili-speaking countries (particularly Kenya and Tanzania) to refer to white people. Very common since white people are still a curiosity in many parts of these countries and usually not intended to be offensive but sometimes used in a pejorative manner. Similar usage to faranji in Amharic.;swa;1;0;0;0;0;0;0;0
+wetback;;A person of Latino descent
+wexican;;A person of mixed Caucasian and Mexican parentage.;eng;1;1;0;0;0;0;0;0
+whigger;white nigger;[1] Used in 19th-century United States to refer to the Irish. [2] Sometimes used today in reference to white people in a manner similar to white trash or redneck. [3] Also refers to white youth that imitate urban black youth by means of clothing style
+Whipped;Jap;[1] A Japanese soldier or national
+white chocolate;;[1] A Caucasian trying to act black. [2] A black person trying to act Caucasian.;eng;1;0;0;0;0;0;0;0
+white nigger;;[1] Used in 19th-century United States to refer to the Irish. [2] Sometimes used today in reference to white people in a manner similar to white trash or redneck. [3] Also refers to white youth that imitate urban black youth by means of clothing style
+white privilege;;Contested term denoting societal privileges resulting from being a Caucasian.;eng;1;0;0;0;0;0;0;0
+white trash;;A Caucasian of low class or limited income.;eng;1;0;0;0;0;0;1;0
+whitey;;A Caucasian.;eng;1;0;0;0;0;0;0;0
+whore from Fife;;A person who is not only a whore
+WIC;;Acronym for White Irish Catholic.;eng;1;0;1;0;0;0;0;1
+Wichser;;[1] A wanker / tosser / useless person. [2] A male person who masturbates.;deu;0;0;0;0;0;0;0;0
+wigga;white nigger;[1] Used in 19th-century United States to refer to the Irish. [2] Sometimes used today in reference to white people in a manner similar to white trash or redneck. [3] Also refers to white youth that imitate urban black youth by means of clothing style
+wigger;white nigger;[1] Used in 19th-century United States to refer to the Irish. [2] Sometimes used today in reference to white people in a manner similar to white trash or redneck. [3] Also refers to white youth that imitate urban black youth by means of clothing style
+wiggerette;white nigger;[1] Used in 19th-century United States to refer to the Irish. [2] Sometimes used today in reference to white people in a manner similar to white trash or redneck. [3] Also refers to white youth that imitate urban black youth by means of clothing style
+wink;;A Caucasian who emulates
+Wixer;Wichser;[1] A wanker / tosser / useless person. [2] A male person who masturbates.;deu;0;0;0;0;0;0;0;0
+wog;;A swarthy or dark-skinned foreigner. Possibly derived from 'golliwogg' In Britain
+wop;;A person of Italian descent
+Yank;;A term for Northerners used by Southerners within the United states or by non-Americans for Americans. From the Dutch Jan Kees ('John Cheese') meaning Englishman.;eng;0;1;0;0;0;0;0;0
+Yankee;Yank;A term for Northerners used by Southerners within the United states or by non-Americans for Americans. From the Dutch Jan Kees ('John Cheese') meaning Englishman.;eng;0;1;0;0;0;0;0;0
+yardie;;[1] A person from Jamaica
+yellow;;A person of Asian descent.;eng;1;0;0;0;0;0;0;0
+yellow bone;;[1] A black female with light skin. [2] A black female of mixed heritage.;eng;1;0;0;0;0;0;0;0
+yid;;A Jewish person
+yob;;In the UK
+yobbo;yob;In the UK
+yokel;;A rural person.;eng;1;0;0;0;0;0;0;0
+yom;melanzana;Italian word for a black person
+youn;;Derogatory when speaking of ethnic Vietnamese minority.  More derogatory when prefixed with 'a' like 'a youn'.;khm;1;0;0;0;0;0;0;0
+yuon;;Vietnamese person in Khmer. Considered derogatory.;khm;1;0;0;0;0;0;0;0
+zainichi;;(especially
+zambaggoa;zambo;A person of mixed indigenous and African parentage.;spa;1;1;0;0;0;0;0;0
+zambo;;A person of mixed indigenous and African parentage.;spa;1;1;0;0;0;0;0;0
+zandneger;;Muslim
+zebra;;A person of mixed Caucasian and black parentage.;eng;1;0;0;0;0;0;0;0
+Zecke;;[1] tick (Ixodida) [2] derogative name used by radical right wing activists to associate people (f.ex. left wing activists) with parasites [3] fans of the Hamburg based soccer club St. Pauli;deu;0;0;0;0;0;0;1;0
+Ziegenficker;;Insult to Muslims
+zigabo;jigaboo;A black person. Jiggaboo or jigabo is from a Bantu verb tshikabo
+zigeuner;;Gypsy;deu;1;0;0;0;0;0;0;0
+Zionazi;;A Jew living in Israel;eng;0;1;1;0;0;0;0;0
+zip;;An Asian person. Used by American military personnel during the Korean War and Vietnam War. Also seen in the films Platoon
+zipperhead;zip;An Asian person. Used by American military personnel during the Korean War and Vietnam War. Also seen in the films Platoon
+zippohead;zip;An Asian person. Used by American military personnel during the Korean War and Vietnam War. Also seen in the films Platoon
+ZOG;;Zionist Occupation Government
+ZOG lover;;Used by white supremacists to denote one who is subservient to Jewish people.;eng;1;0;0;0;0;0;0;0
+zorra;;mujer facil (a woman of loose morals);spa;0;0;0;1;0;0;0;0
