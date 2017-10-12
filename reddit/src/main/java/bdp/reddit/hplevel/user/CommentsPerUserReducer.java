@@ -6,7 +6,7 @@ import org.apache.hadoop.mapreduce.Reducer;
 
 import java.io.IOException;
 
-public class CommentsPerUserReducer extends Reducer<Text, DoubleWritable, Text, DoubleWritable>{
+public class CommentsPerUserReducer extends Reducer<Text, DoubleWritable, Text, DoubleWritable> {
     @Override
     protected void reduce(Text key, Iterable<DoubleWritable> values, Context context) throws IOException, InterruptedException {
         double totalComment = 0;

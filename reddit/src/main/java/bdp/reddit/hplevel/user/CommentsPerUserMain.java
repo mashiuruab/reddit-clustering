@@ -26,6 +26,7 @@ public class CommentsPerUserMain {
         job.setReducerClass(CommentsPerUserReducer.class);
 
         job.setInputFormatClass(TextInputFormat.class);
+        /*job.setInputFormatClass(KeyValueTextInputFormat.class);*/
         job.setOutputFormatClass(TextOutputFormat.class);
 
         FileInputFormat.addInputPath(job, new Path(args[0]));

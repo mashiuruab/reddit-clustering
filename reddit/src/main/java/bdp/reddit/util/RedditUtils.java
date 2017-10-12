@@ -38,7 +38,7 @@ public class RedditUtils {
         }
     }
 
-    private Map<String, String> HATE_DB = new HashMap<>();
+    private Map<String, String> HATE_DB = new HashMap<String, String>();
 
     public Map<String, String> getHateDb() {
         return HATE_DB;

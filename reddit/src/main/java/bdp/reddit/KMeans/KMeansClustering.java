@@ -26,7 +26,7 @@ public class KMeansClustering {
     public static class Map extends MapReduceBase
             implements Mapper<LongWritable, Text, DoubleWritable, Text> {
 
-        List<Double> centroidList = new ArrayList<>();
+        List<Double> centroidList = new ArrayList<Double>();
 
         @Override
         public void configure(JobConf job) {
@@ -49,7 +49,6 @@ public class KMeansClustering {
             }
         }
 
-        @Override
         public void map(LongWritable lineNumber, Text redditVector,
                         OutputCollector<DoubleWritable, Text> outputCollector, Reporter reporter)
                 throws IOException {
@@ -66,7 +65,6 @@ public class KMeansClustering {
     public static class Reduce extends MapReduceBase
             implements Reducer<DoubleWritable, Text, DoubleWritable, Text> {
 
-        @Override
         public void reduce(DoubleWritable doubleWritable, Iterator<Text> iterator,
                            OutputCollector<DoubleWritable, Text> outputCollector, Reporter reporter)
                 throws IOException {

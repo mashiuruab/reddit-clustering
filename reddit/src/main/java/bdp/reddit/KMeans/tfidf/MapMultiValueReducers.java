@@ -11,7 +11,7 @@ import java.util.List;
 import java.util.Map;
 
 public class MapMultiValueReducers extends Reducer<Text, MapWritable, Text, Text> {
-    List<Double> tfidfList = new ArrayList<>();
+    List<Double> tfidfList = new ArrayList<Double>();
 
 
     @Override
@@ -28,9 +28,9 @@ public class MapMultiValueReducers extends Reducer<Text, MapWritable, Text, Text
     private void setTFIDF(Text redditId, Iterable<MapWritable> docList) {
         double totalNumberOfDocuments = 0;
 
-        Map<String, TfDocCountContainer> termDocCountMap = new HashMap<>();
-        Map<String, Double> TF = new HashMap<>();
-        Map<String, Double> IDF =  new HashMap<>();
+        Map<String, TfDocCountContainer> termDocCountMap = new HashMap<String, TfDocCountContainer>();
+        Map<String, Double> TF = new HashMap<String, Double>();
+        Map<String, Double> IDF =  new HashMap<String, Double>();
         TfDocCountContainer container;
 
         for(MapWritable docMap : docList) {

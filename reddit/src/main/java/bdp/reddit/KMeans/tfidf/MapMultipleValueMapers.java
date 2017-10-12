@@ -35,7 +35,7 @@ public class MapMultipleValueMapers extends Mapper<LongWritable, Text, Text, Map
     private static final String ID = "id";
 
 
-    private static Map<String, String> HATE_DB = new HashMap<>();
+    private static Map<String, String> HATE_DB = new HashMap<String, String>();
 
     static {
         try {
