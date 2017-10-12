@@ -21,7 +21,8 @@ public class CommentsPerUserMain {
         job.setOutputKeyClass(Text.class);
         job.setOutputValueClass(DoubleWritable.class);
 
-        job.setMapperClass(CommentsPerUserMapper.class);
+        /*job.setMapperClass(CommentsPerUserMapper.class);*/
+        job.setMapperClass(CPUserFilteredMapper.class);
         job.setReducerClass(CommentsPerUserReducer.class);
 
         job.setInputFormatClass(TextInputFormat.class);
