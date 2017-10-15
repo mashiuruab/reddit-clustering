@@ -1,0 +1,61 @@
+1.
+
+rm(list=ls())
+
+A  <-  read.table("/home/mashiur/Documents/smtalha/hateful-reddits-ouput.txt", sep = "\t")
+
+A[2]
+
+df <-  data.frame(A[2])
+
+summary(df)
+
+norm_data <-  scale(df)
+
+summary(norm_data)
+
+cdf_data <- ecdf(norm_data)
+
+plot(cdf_data, xlim=c(-50, 100), ylim=c(-0.1, 1.5))
+
+
+2. 
+
+
+rm(list=ls())
+
+A  <-  read.table("/home/mashiur/Documents/smtalha/hateful-reddits-ouput.txt", sep = "\t")
+
+df <-  data.frame(A[2])
+
+vector_a  <- as.vector(as.matrix(df))
+
+norm_a  <- pnorm(vector_a,0,1)
+
+cdf_a <- ecdf(norm_a)
+
+plot(cdf_a)
+
+
+
+--------------------------------------------------------------------------------
+
+# a_vector <- as.vector(df[1])
+
+#vector_a  <- as.vector(as.matrix(df))
+
+#cdf_a  <- pnorm(vector_a,0,1)
+
+
+
+
+# myMatrix <- as.matrix(read.table(filename, sep="\t", header=TRUE)
+
+avector <- as.vector(df[1])
+class(avector) 
+
+avector <- aframe[['a2']]
+class(avector)
+
+avector <- aframe[,2]
+class(avector)
