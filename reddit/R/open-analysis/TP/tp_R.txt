@@ -1,0 +1,57 @@
+rm(list=ls())
+
+A  <-  read.table("/home/mashiur/projects/reddit-clustering/reddit/R/open-analysis/TP/temporalpattern-output", sep = "")
+
+df <-  data.frame(A)
+
+summary(df)
+
+# getting  the legends
+x <- df[,1]
+y <- df[,2]
+
+x_vector <-  as.vector(x)
+y_vector <- as.vector(y)
+
+min_y <- min(y_vector)
+max_y  <- max(y_vector)
+
+min_y
+max_y
+
+norm_y = (y_vector-min(y_vector))/(max(y_vector)-min(y_vector))
+
+data = sample(x_vector, size = 20, replace = TRUE, prob = norm_y)
+
+data_table <- table(data)
+
+#barplot(data_table, yaxp=c(min_y, max_y, 10000))
+
+barplot(data_table)
+
+
+
+2. CDF
+
+
+
+
+rm(list=ls())
+
+A  <-  read.table("/home/mashiur/projects/reddit-clustering/reddit/R/open-analysis/TP/temporalpattern-output", sep = "")
+
+df <-  data.frame(A[2])
+
+vector_a  <- as.vector(as.matrix(df))
+
+mean_a <-  mean(vector_a)
+sd_a  <-  sd(vector_a)
+
+mean_a
+sd_a
+
+hplevel_temporalPattern  <- pnorm(vector_a,mean_a,sd_a)
+
+cdf_a <- ecdf(hplevel_temporalPattern)
+
+plot(cdf_a)
