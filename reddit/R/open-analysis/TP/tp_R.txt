@@ -50,8 +50,13 @@ sd_a  <-  sd(vector_a)
 mean_a
 sd_a
 
-hplevel_temporalPattern  <- pnorm(vector_a,mean_a,sd_a)
+hourOfDay  <- pnorm(vector_a,mean_a,sd_a)
 
-cdf_a <- ecdf(hplevel_temporalPattern)
 
-plot(cdf_a)
+cdf_a <- ecdf(hourOfDay)
+
+hourCDFcolor <- rgb(0,1,0)
+
+plot(cdf_a, col=hourCDFcolor, main=NA)
+
+legend('right', c('hourOfDay'), fill=c(hourCDFcolor), border=NA)
