@@ -58,5 +58,3 @@ cdf_a <- ecdf(hourOfDay)
 hourCDFcolor <- rgb(0,1,0)
 
 plot(cdf_a, col=hourCDFcolor, main=NA, xlab= "Hate Frequency Hour of Day", ylab= "CDF")
-
-legend('right', c('hourOfDay'), fill=c(hourCDFcolor), border=NA)
