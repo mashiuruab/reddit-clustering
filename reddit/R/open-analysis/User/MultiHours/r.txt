@@ -36,7 +36,7 @@ hourCDFcolor <- rgb(0,1,0)
 cdf_user <- ecdf(norm_user)
 cdf_hour <- ecdf(norm_tp)
 
-plot(cdf_user, col=userCDFcolor, main=NA)
+plot(cdf_user, col=userCDFcolor, main=NA, xlab= "Raid Analysis", ylab= "CDF")
 plot(cdf_hour,  col=hourCDFcolor, add=T)
 
 legend('right', c('user', 'hourOfDay'), fill=c(userCDFcolor, hourCDFcolor), border=NA)

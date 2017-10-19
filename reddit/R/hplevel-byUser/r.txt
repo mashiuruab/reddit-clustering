@@ -29,7 +29,7 @@ data_table <- table(data)
 
 #barplot(data_table, yaxp=c(min_y, max_y, 10000))
 
-barplot(data_table,col=c("blue"))
+barplot(data_table,col=c("blue"), xlab = "User", ylab = "Hate Frequency")
 
 
 
@@ -56,4 +56,4 @@ user_dist  <- pnorm(vector_a,mean_a,sd_a)
 
 cdf_a <- ecdf(user_dist)
 
-plot(cdf_a, col=c("green"))
+plot(cdf_a, col=c("green"), main= "", xlab= "Hate Speech Frequency Per User", ylab= "CDF")
