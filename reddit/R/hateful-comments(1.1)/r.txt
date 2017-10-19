@@ -1,6 +1,6 @@
 rm(list=ls())
 
-A  <-  read.table("/home/mashiur/Documents/smtalha/hateful-reddits-ouput.txt", sep = "\t")
+A  <-  read.table("/home/mashiur/projects/bigdata-fall-17-uab/hateful-reddits-ouput", sep = "")
 
 df <-  data.frame(A)
 
